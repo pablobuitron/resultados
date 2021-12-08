@@ -1,0 +1,8 @@
+x= [1:100]'
+open FOTONES
+y=importdata('Fotones9-Dose.txt')
+plot(x,y,'linewidth',2)
+title('Dosis con filtro BOW-TIE (\epsilon_x =0.9, \epsilon_y =1.0)')
+xlabel('Detector a lo largo del eje x')
+ylabel('Dosis en [Gy]')
+print -djpg bowtie9.jpg
