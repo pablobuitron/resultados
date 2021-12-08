@@ -1,0 +1,18 @@
+
+#=====================================================
+# VISUALISATION 
+
+/vis/open OGLSX
+/vis/viewer/reset 
+/vis/viewer/set/style surface
+/vis/drawVolume 
+/tracking/storeTrajectory 1 
+/vis/scene/endOfEventAction accumulate 2
+/vis/viewer/update
+/vis/viewer/set/viewpointThetaPhi 0 0
+/gate/geometry/rebuild
+/vis/viewer/zoom 1
+/vis/viewer/panTo 0 1000 mm
+#/vis/scene/add/axes
+
+

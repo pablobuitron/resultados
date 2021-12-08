@@ -1,0 +1,22 @@
+/gate/fantoma/vis/forceWireframe
+
+/gate/fantoma/daughters/name aluminiumBall
+/gate/fantoma/daughters/insert sphere
+/gate/aluminiumBall/placement/setTranslation 4 0 7 cm
+/gate/aluminiumBall/geometry/setRmin 0. mm
+/gate/aluminiumBall/geometry/setRmax 1. cm
+/gate/aluminiumBall/setMaterial Aluminium
+/gate/aluminiumBall/vis/setColor white
+
+/gate/fantoma/daughters/name PVCBall
+/gate/fantoma/daughters/insert sphere
+/gate/PVCBall/placement/setTranslation -4 0 7 cm
+/gate/PVCBall/geometry/setRmin 0. mm
+/gate/PVCBall/geometry/setRmax 1. cm
+/gate/PVCBall/setMaterial PVC
+/gate/PVCBall/vis/setColor cyan
+
+#/gate/timing/setTime 0 s
+#/gate/timing/setTime 45 s
+#/gate/timing/setTime 90 s
+

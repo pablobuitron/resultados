@@ -1,0 +1,1006 @@
+/gate/world/daughters/name Awedge0
+/gate/world/daughters/insert wedge
+/gate/Awedge0/geometry/setNarrowerXLength 1e-05 mm
+/gate/Awedge0/geometry/setXLength 0.000349328 mm
+/gate/Awedge0/geometry/setYLength 0.16808 mm 
+/gate/Awedge0/geometry/setZLength 32 mm
+/gate/Awedge0/setMaterial Aluminium
+/gate/Awedge0/vis/setColor gray
+/gate/Awedge0/placement/setTranslation 0.0840398 585 0 mm
+/gate/Awedge0/placement/setRotationAxis -1 1 0
+/gate/Awedge0/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge1
+/gate/world/daughters/insert wedge
+/gate/Awedge1/geometry/setNarrowerXLength 0.000349328 mm
+/gate/Awedge1/geometry/setXLength 0.00069871 mm
+/gate/Awedge1/geometry/setYLength 0.168106 mm 
+/gate/Awedge1/geometry/setZLength 32 mm
+/gate/Awedge1/setMaterial Aluminium
+/gate/Awedge1/vis/setColor gray
+/gate/Awedge1/placement/setTranslation 0.252132 585 0 mm
+/gate/Awedge1/placement/setRotationAxis -1 1 0
+/gate/Awedge1/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge2
+/gate/world/daughters/insert wedge
+/gate/Awedge2/geometry/setNarrowerXLength 0.00069871 mm
+/gate/Awedge2/geometry/setXLength 0.0010482 mm
+/gate/Awedge2/geometry/setYLength 0.168158 mm 
+/gate/Awedge2/geometry/setZLength 32 mm
+/gate/Awedge2/setMaterial Aluminium
+/gate/Awedge2/vis/setColor gray
+/gate/Awedge2/placement/setTranslation 0.420264 585 0 mm
+/gate/Awedge2/placement/setRotationAxis -1 1 0
+/gate/Awedge2/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge3
+/gate/world/daughters/insert wedge
+/gate/Awedge3/geometry/setNarrowerXLength 0.0010482 mm
+/gate/Awedge3/geometry/setXLength 0.00139785 mm
+/gate/Awedge3/geometry/setYLength 0.168236 mm 
+/gate/Awedge3/geometry/setZLength 32 mm
+/gate/Awedge3/setMaterial Aluminium
+/gate/Awedge3/vis/setColor gray
+/gate/Awedge3/placement/setTranslation 0.588461 584.999 0 mm
+/gate/Awedge3/placement/setRotationAxis -1 1 0
+/gate/Awedge3/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge4
+/gate/world/daughters/insert wedge
+/gate/Awedge4/geometry/setNarrowerXLength 0.00139785 mm
+/gate/Awedge4/geometry/setXLength 0.00174772 mm
+/gate/Awedge4/geometry/setYLength 0.168341 mm 
+/gate/Awedge4/geometry/setZLength 32 mm
+/gate/Awedge4/setMaterial Aluminium
+/gate/Awedge4/vis/setColor gray
+/gate/Awedge4/placement/setTranslation 0.756749 584.999 0 mm
+/gate/Awedge4/placement/setRotationAxis -1 1 0
+/gate/Awedge4/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge5
+/gate/world/daughters/insert wedge
+/gate/Awedge5/geometry/setNarrowerXLength 0.00174772 mm
+/gate/Awedge5/geometry/setXLength 0.00209787 mm
+/gate/Awedge5/geometry/setYLength 0.168471 mm 
+/gate/Awedge5/geometry/setZLength 32 mm
+/gate/Awedge5/setMaterial Aluminium
+/gate/Awedge5/vis/setColor gray
+/gate/Awedge5/placement/setTranslation 0.925155 584.999 0 mm
+/gate/Awedge5/placement/setRotationAxis -1 1 0
+/gate/Awedge5/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge6
+/gate/world/daughters/insert wedge
+/gate/Awedge6/geometry/setNarrowerXLength 0.00209787 mm
+/gate/Awedge6/geometry/setXLength 0.00244834 mm
+/gate/Awedge6/geometry/setYLength 0.168628 mm 
+/gate/Awedge6/geometry/setZLength 32 mm
+/gate/Awedge6/setMaterial Aluminium
+/gate/Awedge6/vis/setColor gray
+/gate/Awedge6/placement/setTranslation 1.09371 584.999 0 mm
+/gate/Awedge6/placement/setRotationAxis -1 1 0
+/gate/Awedge6/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge7
+/gate/world/daughters/insert wedge
+/gate/Awedge7/geometry/setNarrowerXLength 0.00244834 mm
+/gate/Awedge7/geometry/setXLength 0.00279918 mm
+/gate/Awedge7/geometry/setYLength 0.168812 mm 
+/gate/Awedge7/geometry/setZLength 32 mm
+/gate/Awedge7/setMaterial Aluminium
+/gate/Awedge7/vis/setColor gray
+/gate/Awedge7/placement/setTranslation 1.26243 584.999 0 mm
+/gate/Awedge7/placement/setRotationAxis -1 1 0
+/gate/Awedge7/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge8
+/gate/world/daughters/insert wedge
+/gate/Awedge8/geometry/setNarrowerXLength 0.00279918 mm
+/gate/Awedge8/geometry/setXLength 0.00315047 mm
+/gate/Awedge8/geometry/setYLength 0.169022 mm 
+/gate/Awedge8/geometry/setZLength 32 mm
+/gate/Awedge8/setMaterial Aluminium
+/gate/Awedge8/vis/setColor gray
+/gate/Awedge8/placement/setTranslation 1.43134 584.999 0 mm
+/gate/Awedge8/placement/setRotationAxis -1 1 0
+/gate/Awedge8/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge9
+/gate/world/daughters/insert wedge
+/gate/Awedge9/geometry/setNarrowerXLength 0.00315047 mm
+/gate/Awedge9/geometry/setXLength 0.00350225 mm
+/gate/Awedge9/geometry/setYLength 0.169258 mm 
+/gate/Awedge9/geometry/setZLength 32 mm
+/gate/Awedge9/setMaterial Aluminium
+/gate/Awedge9/vis/setColor gray
+/gate/Awedge9/placement/setTranslation 1.60048 584.998 0 mm
+/gate/Awedge9/placement/setRotationAxis -1 1 0
+/gate/Awedge9/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge10
+/gate/world/daughters/insert wedge
+/gate/Awedge10/geometry/setNarrowerXLength 0.00350225 mm
+/gate/Awedge10/geometry/setXLength 0.00385457 mm
+/gate/Awedge10/geometry/setYLength 0.169522 mm 
+/gate/Awedge10/geometry/setZLength 32 mm
+/gate/Awedge10/setMaterial Aluminium
+/gate/Awedge10/vis/setColor gray
+/gate/Awedge10/placement/setTranslation 1.76987 584.998 0 mm
+/gate/Awedge10/placement/setRotationAxis -1 1 0
+/gate/Awedge10/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge11
+/gate/world/daughters/insert wedge
+/gate/Awedge11/geometry/setNarrowerXLength 0.00385457 mm
+/gate/Awedge11/geometry/setXLength 0.0042075 mm
+/gate/Awedge11/geometry/setYLength 0.169812 mm 
+/gate/Awedge11/geometry/setZLength 32 mm
+/gate/Awedge11/setMaterial Aluminium
+/gate/Awedge11/vis/setColor gray
+/gate/Awedge11/placement/setTranslation 1.93954 584.998 0 mm
+/gate/Awedge11/placement/setRotationAxis -1 1 0
+/gate/Awedge11/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge12
+/gate/world/daughters/insert wedge
+/gate/Awedge12/geometry/setNarrowerXLength 0.0042075 mm
+/gate/Awedge12/geometry/setXLength 0.00456109 mm
+/gate/Awedge12/geometry/setYLength 0.170129 mm 
+/gate/Awedge12/geometry/setZLength 32 mm
+/gate/Awedge12/setMaterial Aluminium
+/gate/Awedge12/vis/setColor gray
+/gate/Awedge12/placement/setTranslation 2.10951 584.998 0 mm
+/gate/Awedge12/placement/setRotationAxis -1 1 0
+/gate/Awedge12/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge13
+/gate/world/daughters/insert wedge
+/gate/Awedge13/geometry/setNarrowerXLength 0.00456109 mm
+/gate/Awedge13/geometry/setXLength 0.00491539 mm
+/gate/Awedge13/geometry/setYLength 0.170473 mm 
+/gate/Awedge13/geometry/setZLength 32 mm
+/gate/Awedge13/setMaterial Aluminium
+/gate/Awedge13/vis/setColor gray
+/gate/Awedge13/placement/setTranslation 2.27981 584.998 0 mm
+/gate/Awedge13/placement/setRotationAxis -1 1 0
+/gate/Awedge13/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge14
+/gate/world/daughters/insert wedge
+/gate/Awedge14/geometry/setNarrowerXLength 0.00491539 mm
+/gate/Awedge14/geometry/setXLength 0.00527046 mm
+/gate/Awedge14/geometry/setYLength 0.17084 mm 
+/gate/Awedge14/geometry/setZLength 32 mm
+/gate/Awedge14/setMaterial Aluminium
+/gate/Awedge14/vis/setColor gray
+/gate/Awedge14/placement/setTranslation 2.45047 584.997 0 mm
+/gate/Awedge14/placement/setRotationAxis -1 1 0
+/gate/Awedge14/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge15
+/gate/world/daughters/insert wedge
+/gate/Awedge15/geometry/setNarrowerXLength 0.00527046 mm
+/gate/Awedge15/geometry/setXLength 0.00562632 mm
+/gate/Awedge15/geometry/setYLength 0.171223 mm 
+/gate/Awedge15/geometry/setZLength 32 mm
+/gate/Awedge15/setMaterial Aluminium
+/gate/Awedge15/vis/setColor gray
+/gate/Awedge15/placement/setTranslation 2.6215 584.997 0 mm
+/gate/Awedge15/placement/setRotationAxis -1 1 0
+/gate/Awedge15/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge16
+/gate/world/daughters/insert wedge
+/gate/Awedge16/geometry/setNarrowerXLength 0.00562632 mm
+/gate/Awedge16/geometry/setXLength 0.00598297 mm
+/gate/Awedge16/geometry/setYLength 0.171605 mm 
+/gate/Awedge16/geometry/setZLength 32 mm
+/gate/Awedge16/setMaterial Aluminium
+/gate/Awedge16/vis/setColor gray
+/gate/Awedge16/placement/setTranslation 2.79291 584.997 0 mm
+/gate/Awedge16/placement/setRotationAxis -1 1 0
+/gate/Awedge16/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge17
+/gate/world/daughters/insert wedge
+/gate/Awedge17/geometry/setNarrowerXLength 0.00598297 mm
+/gate/Awedge17/geometry/setXLength 0.00634035 mm
+/gate/Awedge17/geometry/setYLength 0.171952 mm 
+/gate/Awedge17/geometry/setZLength 32 mm
+/gate/Awedge17/setMaterial Aluminium
+/gate/Awedge17/vis/setColor gray
+/gate/Awedge17/placement/setTranslation 2.96469 584.997 0 mm
+/gate/Awedge17/placement/setRotationAxis -1 1 0
+/gate/Awedge17/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge18
+/gate/world/daughters/insert wedge
+/gate/Awedge18/geometry/setNarrowerXLength 0.00634035 mm
+/gate/Awedge18/geometry/setXLength 0.00669826 mm
+/gate/Awedge18/geometry/setYLength 0.172208 mm 
+/gate/Awedge18/geometry/setZLength 32 mm
+/gate/Awedge18/setMaterial Aluminium
+/gate/Awedge18/vis/setColor gray
+/gate/Awedge18/placement/setTranslation 3.13677 584.997 0 mm
+/gate/Awedge18/placement/setRotationAxis -1 1 0
+/gate/Awedge18/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge19
+/gate/world/daughters/insert wedge
+/gate/Awedge19/geometry/setNarrowerXLength 0.00669826 mm
+/gate/Awedge19/geometry/setXLength 0.0207043 mm
+/gate/Awedge19/geometry/setYLength 0.17229 mm 
+/gate/Awedge19/geometry/setZLength 32 mm
+/gate/Awedge19/setMaterial Aluminium
+/gate/Awedge19/vis/setColor gray
+/gate/Awedge19/placement/setTranslation 3.30902 584.993 0 mm
+/gate/Awedge19/placement/setRotationAxis -1 1 0
+/gate/Awedge19/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge20
+/gate/world/daughters/insert wedge
+/gate/Awedge20/geometry/setNarrowerXLength 0.0207043 mm
+/gate/Awedge20/geometry/setXLength 0.0464757 mm
+/gate/Awedge20/geometry/setYLength 0.172094 mm 
+/gate/Awedge20/geometry/setZLength 32 mm
+/gate/Awedge20/setMaterial Aluminium
+/gate/Awedge20/vis/setColor gray
+/gate/Awedge20/placement/setTranslation 3.48121 584.983 0 mm
+/gate/Awedge20/placement/setRotationAxis -1 1 0
+/gate/Awedge20/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge21
+/gate/world/daughters/insert wedge
+/gate/Awedge21/geometry/setNarrowerXLength 0.0464757 mm
+/gate/Awedge21/geometry/setXLength 0.0895483 mm
+/gate/Awedge21/geometry/setYLength 0.171507 mm 
+/gate/Awedge21/geometry/setZLength 32 mm
+/gate/Awedge21/setMaterial Aluminium
+/gate/Awedge21/vis/setColor gray
+/gate/Awedge21/placement/setTranslation 3.65301 584.966 0 mm
+/gate/Awedge21/placement/setRotationAxis -1 1 0
+/gate/Awedge21/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge22
+/gate/world/daughters/insert wedge
+/gate/Awedge22/geometry/setNarrowerXLength 0.0895483 mm
+/gate/Awedge22/geometry/setXLength 0.156031 mm
+/gate/Awedge22/geometry/setYLength 0.170435 mm 
+/gate/Awedge22/geometry/setZLength 32 mm
+/gate/Awedge22/setMaterial Aluminium
+/gate/Awedge22/vis/setColor gray
+/gate/Awedge22/placement/setTranslation 3.82398 584.939 0 mm
+/gate/Awedge22/placement/setRotationAxis -1 1 0
+/gate/Awedge22/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge23
+/gate/world/daughters/insert wedge
+/gate/Awedge23/geometry/setNarrowerXLength 0.156031 mm
+/gate/Awedge23/geometry/setXLength 0.251836 mm
+/gate/Awedge23/geometry/setYLength 0.168823 mm 
+/gate/Awedge23/geometry/setZLength 32 mm
+/gate/Awedge23/setMaterial Aluminium
+/gate/Awedge23/vis/setColor gray
+/gate/Awedge23/placement/setTranslation 3.99361 584.898 0 mm
+/gate/Awedge23/placement/setRotationAxis -1 1 0
+/gate/Awedge23/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge24
+/gate/world/daughters/insert wedge
+/gate/Awedge24/geometry/setNarrowerXLength 0.251836 mm
+/gate/Awedge24/geometry/setXLength 0.381792 mm
+/gate/Awedge24/geometry/setYLength 0.166677 mm 
+/gate/Awedge24/geometry/setZLength 32 mm
+/gate/Awedge24/setMaterial Aluminium
+/gate/Awedge24/vis/setColor gray
+/gate/Awedge24/placement/setTranslation 4.16136 584.842 0 mm
+/gate/Awedge24/placement/setRotationAxis -1 1 0
+/gate/Awedge24/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge25
+/gate/world/daughters/insert wedge
+/gate/Awedge25/geometry/setNarrowerXLength 0.381792 mm
+/gate/Awedge25/geometry/setXLength 0.548847 mm
+/gate/Awedge25/geometry/setYLength 0.164072 mm 
+/gate/Awedge25/geometry/setZLength 32 mm
+/gate/Awedge25/setMaterial Aluminium
+/gate/Awedge25/vis/setColor gray
+/gate/Awedge25/placement/setTranslation 4.32674 584.767 0 mm
+/gate/Awedge25/placement/setRotationAxis -1 1 0
+/gate/Awedge25/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge26
+/gate/world/daughters/insert wedge
+/gate/Awedge26/geometry/setNarrowerXLength 0.548847 mm
+/gate/Awedge26/geometry/setXLength 0.753524 mm
+/gate/Awedge26/geometry/setYLength 0.161148 mm 
+/gate/Awedge26/geometry/setZLength 32 mm
+/gate/Awedge26/setMaterial Aluminium
+/gate/Awedge26/vis/setColor gray
+/gate/Awedge26/placement/setTranslation 4.48935 584.674 0 mm
+/gate/Awedge26/placement/setRotationAxis -1 1 0
+/gate/Awedge26/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge27
+/gate/world/daughters/insert wedge
+/gate/Awedge27/geometry/setNarrowerXLength 0.753524 mm
+/gate/Awedge27/geometry/setXLength 0.993748 mm
+/gate/Awedge27/geometry/setYLength 0.158092 mm 
+/gate/Awedge27/geometry/setZLength 32 mm
+/gate/Awedge27/setMaterial Aluminium
+/gate/Awedge27/vis/setColor gray
+/gate/Awedge27/placement/setTranslation 4.64897 584.563 0 mm
+/gate/Awedge27/placement/setRotationAxis -1 1 0
+/gate/Awedge27/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge28
+/gate/world/daughters/insert wedge
+/gate/Awedge28/geometry/setNarrowerXLength 0.993748 mm
+/gate/Awedge28/geometry/setXLength 1.26504 mm
+/gate/Awedge28/geometry/setYLength 0.155111 mm 
+/gate/Awedge28/geometry/setZLength 32 mm
+/gate/Awedge28/setMaterial Aluminium
+/gate/Awedge28/vis/setColor gray
+/gate/Awedge28/placement/setTranslation 4.80557 584.435 0 mm
+/gate/Awedge28/placement/setRotationAxis -1 1 0
+/gate/Awedge28/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge29
+/gate/world/daughters/insert wedge
+/gate/Awedge29/geometry/setNarrowerXLength 1.26504 mm
+/gate/Awedge29/geometry/setXLength 1.561 mm
+/gate/Awedge29/geometry/setYLength 0.152405 mm 
+/gate/Awedge29/geometry/setZLength 32 mm
+/gate/Awedge29/setMaterial Aluminium
+/gate/Awedge29/vis/setColor gray
+/gate/Awedge29/placement/setTranslation 4.95933 584.293 0 mm
+/gate/Awedge29/placement/setRotationAxis -1 1 0
+/gate/Awedge29/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge30
+/gate/world/daughters/insert wedge
+/gate/Awedge30/geometry/setNarrowerXLength 1.561 mm
+/gate/Awedge30/geometry/setXLength 1.874 mm
+/gate/Awedge30/geometry/setYLength 0.150148 mm 
+/gate/Awedge30/geometry/setZLength 32 mm
+/gate/Awedge30/setMaterial Aluminium
+/gate/Awedge30/vis/setColor gray
+/gate/Awedge30/placement/setTranslation 5.1106 584.141 0 mm
+/gate/Awedge30/placement/setRotationAxis -1 1 0
+/gate/Awedge30/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge31
+/gate/world/daughters/insert wedge
+/gate/Awedge31/geometry/setNarrowerXLength 1.874 mm
+/gate/Awedge31/geometry/setXLength 2.19592 mm
+/gate/Awedge31/geometry/setYLength 0.148468 mm 
+/gate/Awedge31/geometry/setZLength 32 mm
+/gate/Awedge31/setMaterial Aluminium
+/gate/Awedge31/vis/setColor gray
+/gate/Awedge31/placement/setTranslation 5.25991 583.983 0 mm
+/gate/Awedge31/placement/setRotationAxis -1 1 0
+/gate/Awedge31/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge32
+/gate/world/daughters/insert wedge
+/gate/Awedge32/geometry/setNarrowerXLength 2.19592 mm
+/gate/Awedge32/geometry/setXLength 2.51877 mm
+/gate/Awedge32/geometry/setYLength 0.14744 mm 
+/gate/Awedge32/geometry/setZLength 32 mm
+/gate/Awedge32/setMaterial Aluminium
+/gate/Awedge32/vis/setColor gray
+/gate/Awedge32/placement/setTranslation 5.40787 583.821 0 mm
+/gate/Awedge32/placement/setRotationAxis -1 1 0
+/gate/Awedge32/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge33
+/gate/world/daughters/insert wedge
+/gate/Awedge33/geometry/setNarrowerXLength 2.51877 mm
+/gate/Awedge33/geometry/setXLength 2.83528 mm
+/gate/Awedge33/geometry/setYLength 0.14709 mm 
+/gate/Awedge33/geometry/setZLength 32 mm
+/gate/Awedge33/setMaterial Aluminium
+/gate/Awedge33/vis/setColor gray
+/gate/Awedge33/placement/setTranslation 5.55513 583.661 0 mm
+/gate/Awedge33/placement/setRotationAxis -1 1 0
+/gate/Awedge33/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge34
+/gate/world/daughters/insert wedge
+/gate/Awedge34/geometry/setNarrowerXLength 2.83528 mm
+/gate/Awedge34/geometry/setXLength 3.13925 mm
+/gate/Awedge34/geometry/setYLength 0.147402 mm 
+/gate/Awedge34/geometry/setZLength 32 mm
+/gate/Awedge34/setMaterial Aluminium
+/gate/Awedge34/vis/setColor gray
+/gate/Awedge34/placement/setTranslation 5.70238 583.506 0 mm
+/gate/Awedge34/placement/setRotationAxis -1 1 0
+/gate/Awedge34/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge35
+/gate/world/daughters/insert wedge
+/gate/Awedge35/geometry/setNarrowerXLength 3.13925 mm
+/gate/Awedge35/geometry/setXLength 3.42575 mm
+/gate/Awedge35/geometry/setYLength 0.148322 mm 
+/gate/Awedge35/geometry/setZLength 32 mm
+/gate/Awedge35/setMaterial Aluminium
+/gate/Awedge35/vis/setColor gray
+/gate/Awedge35/placement/setTranslation 5.85024 583.359 0 mm
+/gate/Awedge35/placement/setRotationAxis -1 1 0
+/gate/Awedge35/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge36
+/gate/world/daughters/insert wedge
+/gate/Awedge36/geometry/setNarrowerXLength 3.42575 mm
+/gate/Awedge36/geometry/setXLength 3.69117 mm
+/gate/Awedge36/geometry/setYLength 0.149777 mm 
+/gate/Awedge36/geometry/setZLength 32 mm
+/gate/Awedge36/setMaterial Aluminium
+/gate/Awedge36/vis/setColor gray
+/gate/Awedge36/placement/setTranslation 5.99929 583.221 0 mm
+/gate/Awedge36/placement/setRotationAxis -1 1 0
+/gate/Awedge36/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge37
+/gate/world/daughters/insert wedge
+/gate/Awedge37/geometry/setNarrowerXLength 3.69117 mm
+/gate/Awedge37/geometry/setXLength 4.15055 mm
+/gate/Awedge37/geometry/setYLength 0.305619 mm 
+/gate/Awedge37/geometry/setZLength 32 mm
+/gate/Awedge37/setMaterial Aluminium
+/gate/Awedge37/vis/setColor gray
+/gate/Awedge37/placement/setTranslation 6.22699 583.04 0 mm
+/gate/Awedge37/placement/setRotationAxis -1 1 0
+/gate/Awedge37/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge38
+/gate/world/daughters/insert wedge
+/gate/Awedge38/geometry/setNarrowerXLength 4.15055 mm
+/gate/Awedge38/geometry/setXLength 4.51118 mm
+/gate/Awedge38/geometry/setYLength 0.315656 mm 
+/gate/Awedge38/geometry/setZLength 32 mm
+/gate/Awedge38/setMaterial Aluminium
+/gate/Awedge38/vis/setColor gray
+/gate/Awedge38/placement/setTranslation 6.53762 582.835 0 mm
+/gate/Awedge38/placement/setRotationAxis -1 1 0
+/gate/Awedge38/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge39
+/gate/world/daughters/insert wedge
+/gate/Awedge39/geometry/setNarrowerXLength 4.51118 mm
+/gate/Awedge39/geometry/setXLength 4.77902 mm
+/gate/Awedge39/geometry/setYLength 0.326967 mm 
+/gate/Awedge39/geometry/setZLength 32 mm
+/gate/Awedge39/setMaterial Aluminium
+/gate/Awedge39/vis/setColor gray
+/gate/Awedge39/placement/setTranslation 6.85893 582.677 0 mm
+/gate/Awedge39/placement/setRotationAxis -1 1 0
+/gate/Awedge39/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge40
+/gate/world/daughters/insert wedge
+/gate/Awedge40/geometry/setNarrowerXLength 4.77902 mm
+/gate/Awedge40/geometry/setXLength 4.96655 mm
+/gate/Awedge40/geometry/setYLength 0.338649 mm 
+/gate/Awedge40/geometry/setZLength 32 mm
+/gate/Awedge40/setMaterial Aluminium
+/gate/Awedge40/vis/setColor gray
+/gate/Awedge40/placement/setTranslation 7.19174 582.564 0 mm
+/gate/Awedge40/placement/setRotationAxis -1 1 0
+/gate/Awedge40/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge41
+/gate/world/daughters/insert wedge
+/gate/Awedge41/geometry/setNarrowerXLength 4.96655 mm
+/gate/Awedge41/geometry/setXLength 5.08851 mm
+/gate/Awedge41/geometry/setYLength 0.350156 mm 
+/gate/Awedge41/geometry/setZLength 32 mm
+/gate/Awedge41/setMaterial Aluminium
+/gate/Awedge41/vis/setColor gray
+/gate/Awedge41/placement/setTranslation 7.53614 582.486 0 mm
+/gate/Awedge41/placement/setRotationAxis -1 1 0
+/gate/Awedge41/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge42
+/gate/world/daughters/insert wedge
+/gate/Awedge42/geometry/setNarrowerXLength 5.08851 mm
+/gate/Awedge42/geometry/setXLength 5.15919 mm
+/gate/Awedge42/geometry/setYLength 0.361236 mm 
+/gate/Awedge42/geometry/setZLength 32 mm
+/gate/Awedge42/setMaterial Aluminium
+/gate/Awedge42/vis/setColor gray
+/gate/Awedge42/placement/setTranslation 7.89184 582.438 0 mm
+/gate/Awedge42/placement/setRotationAxis -1 1 0
+/gate/Awedge42/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge43
+/gate/world/daughters/insert wedge
+/gate/Awedge43/geometry/setNarrowerXLength 5.15919 mm
+/gate/Awedge43/geometry/setXLength 5.19106 mm
+/gate/Awedge43/geometry/setYLength 0.371837 mm 
+/gate/Awedge43/geometry/setZLength 32 mm
+/gate/Awedge43/setMaterial Aluminium
+/gate/Awedge43/vis/setColor gray
+/gate/Awedge43/placement/setTranslation 8.25838 582.412 0 mm
+/gate/Awedge43/placement/setRotationAxis -1 1 0
+/gate/Awedge43/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedge44
+/gate/world/daughters/insert wedge
+/gate/Awedge44/geometry/setNarrowerXLength 5.19106 mm
+/gate/Awedge44/geometry/setXLength 5.19428 mm
+/gate/Awedge44/geometry/setYLength 0.382028 mm 
+/gate/Awedge44/geometry/setZLength 32 mm
+/gate/Awedge44/setMaterial Aluminium
+/gate/Awedge44/vis/setColor gray
+/gate/Awedge44/placement/setTranslation 8.63531 582.404 0 mm
+/gate/Awedge44/placement/setRotationAxis -1 1 0
+/gate/Awedge44/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Awedgeder
+/gate/world/daughters/insert box
+/gate/Awedgeder/geometry/setXLength 80 mm
+/gate/Awedgeder/geometry/setYLength 5.19428 mm 
+/gate/Awedgeder/geometry/setZLength 32 mm
+/gate/Awedgeder/setMaterial Aluminium
+/gate/Awedgeder/vis/setColor gray
+/gate/Awedgeder/placement/setTranslation 48.6353 582.403 0 mm
+/gate/world/daughters/name Awedge45
+/gate/world/daughters/insert wedge
+/gate/Awedge45/geometry/setNarrowerXLength 1e-05 mm
+/gate/Awedge45/geometry/setXLength 0.000349328 mm
+/gate/Awedge45/geometry/setYLength 0.16808 mm 
+/gate/Awedge45/geometry/setZLength 32 mm
+/gate/Awedge45/setMaterial Aluminium
+/gate/Awedge45/vis/setColor gray
+/gate/Awedge45/placement/setTranslation -0.0840398 585 0 mm
+/gate/Awedge45/placement/setRotationAxis 0 0 1
+/gate/Awedge45/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge46
+/gate/world/daughters/insert wedge
+/gate/Awedge46/geometry/setNarrowerXLength 0.000349328 mm
+/gate/Awedge46/geometry/setXLength 0.00069871 mm
+/gate/Awedge46/geometry/setYLength 0.168106 mm 
+/gate/Awedge46/geometry/setZLength 32 mm
+/gate/Awedge46/setMaterial Aluminium
+/gate/Awedge46/vis/setColor gray
+/gate/Awedge46/placement/setTranslation -0.252132 585 0 mm
+/gate/Awedge46/placement/setRotationAxis 0 0 1
+/gate/Awedge46/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge47
+/gate/world/daughters/insert wedge
+/gate/Awedge47/geometry/setNarrowerXLength 0.00069871 mm
+/gate/Awedge47/geometry/setXLength 0.0010482 mm
+/gate/Awedge47/geometry/setYLength 0.168158 mm 
+/gate/Awedge47/geometry/setZLength 32 mm
+/gate/Awedge47/setMaterial Aluminium
+/gate/Awedge47/vis/setColor gray
+/gate/Awedge47/placement/setTranslation -0.420264 585 0 mm
+/gate/Awedge47/placement/setRotationAxis 0 0 1
+/gate/Awedge47/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge48
+/gate/world/daughters/insert wedge
+/gate/Awedge48/geometry/setNarrowerXLength 0.0010482 mm
+/gate/Awedge48/geometry/setXLength 0.00139785 mm
+/gate/Awedge48/geometry/setYLength 0.168236 mm 
+/gate/Awedge48/geometry/setZLength 32 mm
+/gate/Awedge48/setMaterial Aluminium
+/gate/Awedge48/vis/setColor gray
+/gate/Awedge48/placement/setTranslation -0.588461 584.999 0 mm
+/gate/Awedge48/placement/setRotationAxis 0 0 1
+/gate/Awedge48/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge49
+/gate/world/daughters/insert wedge
+/gate/Awedge49/geometry/setNarrowerXLength 0.00139785 mm
+/gate/Awedge49/geometry/setXLength 0.00174772 mm
+/gate/Awedge49/geometry/setYLength 0.168341 mm 
+/gate/Awedge49/geometry/setZLength 32 mm
+/gate/Awedge49/setMaterial Aluminium
+/gate/Awedge49/vis/setColor gray
+/gate/Awedge49/placement/setTranslation -0.756749 584.999 0 mm
+/gate/Awedge49/placement/setRotationAxis 0 0 1
+/gate/Awedge49/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge50
+/gate/world/daughters/insert wedge
+/gate/Awedge50/geometry/setNarrowerXLength 0.00174772 mm
+/gate/Awedge50/geometry/setXLength 0.00209787 mm
+/gate/Awedge50/geometry/setYLength 0.168471 mm 
+/gate/Awedge50/geometry/setZLength 32 mm
+/gate/Awedge50/setMaterial Aluminium
+/gate/Awedge50/vis/setColor gray
+/gate/Awedge50/placement/setTranslation -0.925155 584.999 0 mm
+/gate/Awedge50/placement/setRotationAxis 0 0 1
+/gate/Awedge50/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge51
+/gate/world/daughters/insert wedge
+/gate/Awedge51/geometry/setNarrowerXLength 0.00209787 mm
+/gate/Awedge51/geometry/setXLength 0.00244834 mm
+/gate/Awedge51/geometry/setYLength 0.168628 mm 
+/gate/Awedge51/geometry/setZLength 32 mm
+/gate/Awedge51/setMaterial Aluminium
+/gate/Awedge51/vis/setColor gray
+/gate/Awedge51/placement/setTranslation -1.09371 584.999 0 mm
+/gate/Awedge51/placement/setRotationAxis 0 0 1
+/gate/Awedge51/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge52
+/gate/world/daughters/insert wedge
+/gate/Awedge52/geometry/setNarrowerXLength 0.00244834 mm
+/gate/Awedge52/geometry/setXLength 0.00279918 mm
+/gate/Awedge52/geometry/setYLength 0.168812 mm 
+/gate/Awedge52/geometry/setZLength 32 mm
+/gate/Awedge52/setMaterial Aluminium
+/gate/Awedge52/vis/setColor gray
+/gate/Awedge52/placement/setTranslation -1.26243 584.999 0 mm
+/gate/Awedge52/placement/setRotationAxis 0 0 1
+/gate/Awedge52/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge53
+/gate/world/daughters/insert wedge
+/gate/Awedge53/geometry/setNarrowerXLength 0.00279918 mm
+/gate/Awedge53/geometry/setXLength 0.00315047 mm
+/gate/Awedge53/geometry/setYLength 0.169022 mm 
+/gate/Awedge53/geometry/setZLength 32 mm
+/gate/Awedge53/setMaterial Aluminium
+/gate/Awedge53/vis/setColor gray
+/gate/Awedge53/placement/setTranslation -1.43134 584.999 0 mm
+/gate/Awedge53/placement/setRotationAxis 0 0 1
+/gate/Awedge53/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge54
+/gate/world/daughters/insert wedge
+/gate/Awedge54/geometry/setNarrowerXLength 0.00315047 mm
+/gate/Awedge54/geometry/setXLength 0.00350225 mm
+/gate/Awedge54/geometry/setYLength 0.169258 mm 
+/gate/Awedge54/geometry/setZLength 32 mm
+/gate/Awedge54/setMaterial Aluminium
+/gate/Awedge54/vis/setColor gray
+/gate/Awedge54/placement/setTranslation -1.60048 584.998 0 mm
+/gate/Awedge54/placement/setRotationAxis 0 0 1
+/gate/Awedge54/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge55
+/gate/world/daughters/insert wedge
+/gate/Awedge55/geometry/setNarrowerXLength 0.00350225 mm
+/gate/Awedge55/geometry/setXLength 0.00385457 mm
+/gate/Awedge55/geometry/setYLength 0.169522 mm 
+/gate/Awedge55/geometry/setZLength 32 mm
+/gate/Awedge55/setMaterial Aluminium
+/gate/Awedge55/vis/setColor gray
+/gate/Awedge55/placement/setTranslation -1.76987 584.998 0 mm
+/gate/Awedge55/placement/setRotationAxis 0 0 1
+/gate/Awedge55/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge56
+/gate/world/daughters/insert wedge
+/gate/Awedge56/geometry/setNarrowerXLength 0.00385457 mm
+/gate/Awedge56/geometry/setXLength 0.0042075 mm
+/gate/Awedge56/geometry/setYLength 0.169812 mm 
+/gate/Awedge56/geometry/setZLength 32 mm
+/gate/Awedge56/setMaterial Aluminium
+/gate/Awedge56/vis/setColor gray
+/gate/Awedge56/placement/setTranslation -1.93954 584.998 0 mm
+/gate/Awedge56/placement/setRotationAxis 0 0 1
+/gate/Awedge56/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge57
+/gate/world/daughters/insert wedge
+/gate/Awedge57/geometry/setNarrowerXLength 0.0042075 mm
+/gate/Awedge57/geometry/setXLength 0.00456109 mm
+/gate/Awedge57/geometry/setYLength 0.170129 mm 
+/gate/Awedge57/geometry/setZLength 32 mm
+/gate/Awedge57/setMaterial Aluminium
+/gate/Awedge57/vis/setColor gray
+/gate/Awedge57/placement/setTranslation -2.10951 584.998 0 mm
+/gate/Awedge57/placement/setRotationAxis 0 0 1
+/gate/Awedge57/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge58
+/gate/world/daughters/insert wedge
+/gate/Awedge58/geometry/setNarrowerXLength 0.00456109 mm
+/gate/Awedge58/geometry/setXLength 0.00491539 mm
+/gate/Awedge58/geometry/setYLength 0.170473 mm 
+/gate/Awedge58/geometry/setZLength 32 mm
+/gate/Awedge58/setMaterial Aluminium
+/gate/Awedge58/vis/setColor gray
+/gate/Awedge58/placement/setTranslation -2.27981 584.998 0 mm
+/gate/Awedge58/placement/setRotationAxis 0 0 1
+/gate/Awedge58/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge59
+/gate/world/daughters/insert wedge
+/gate/Awedge59/geometry/setNarrowerXLength 0.00491539 mm
+/gate/Awedge59/geometry/setXLength 0.00527046 mm
+/gate/Awedge59/geometry/setYLength 0.17084 mm 
+/gate/Awedge59/geometry/setZLength 32 mm
+/gate/Awedge59/setMaterial Aluminium
+/gate/Awedge59/vis/setColor gray
+/gate/Awedge59/placement/setTranslation -2.45047 584.997 0 mm
+/gate/Awedge59/placement/setRotationAxis 0 0 1
+/gate/Awedge59/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge60
+/gate/world/daughters/insert wedge
+/gate/Awedge60/geometry/setNarrowerXLength 0.00527046 mm
+/gate/Awedge60/geometry/setXLength 0.00562632 mm
+/gate/Awedge60/geometry/setYLength 0.171223 mm 
+/gate/Awedge60/geometry/setZLength 32 mm
+/gate/Awedge60/setMaterial Aluminium
+/gate/Awedge60/vis/setColor gray
+/gate/Awedge60/placement/setTranslation -2.6215 584.997 0 mm
+/gate/Awedge60/placement/setRotationAxis 0 0 1
+/gate/Awedge60/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge61
+/gate/world/daughters/insert wedge
+/gate/Awedge61/geometry/setNarrowerXLength 0.00562632 mm
+/gate/Awedge61/geometry/setXLength 0.00598297 mm
+/gate/Awedge61/geometry/setYLength 0.171605 mm 
+/gate/Awedge61/geometry/setZLength 32 mm
+/gate/Awedge61/setMaterial Aluminium
+/gate/Awedge61/vis/setColor gray
+/gate/Awedge61/placement/setTranslation -2.79291 584.997 0 mm
+/gate/Awedge61/placement/setRotationAxis 0 0 1
+/gate/Awedge61/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge62
+/gate/world/daughters/insert wedge
+/gate/Awedge62/geometry/setNarrowerXLength 0.00598297 mm
+/gate/Awedge62/geometry/setXLength 0.00634035 mm
+/gate/Awedge62/geometry/setYLength 0.171952 mm 
+/gate/Awedge62/geometry/setZLength 32 mm
+/gate/Awedge62/setMaterial Aluminium
+/gate/Awedge62/vis/setColor gray
+/gate/Awedge62/placement/setTranslation -2.96469 584.997 0 mm
+/gate/Awedge62/placement/setRotationAxis 0 0 1
+/gate/Awedge62/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge63
+/gate/world/daughters/insert wedge
+/gate/Awedge63/geometry/setNarrowerXLength 0.00634035 mm
+/gate/Awedge63/geometry/setXLength 0.00669826 mm
+/gate/Awedge63/geometry/setYLength 0.172208 mm 
+/gate/Awedge63/geometry/setZLength 32 mm
+/gate/Awedge63/setMaterial Aluminium
+/gate/Awedge63/vis/setColor gray
+/gate/Awedge63/placement/setTranslation -3.13677 584.997 0 mm
+/gate/Awedge63/placement/setRotationAxis 0 0 1
+/gate/Awedge63/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge64
+/gate/world/daughters/insert wedge
+/gate/Awedge64/geometry/setNarrowerXLength 0.00669826 mm
+/gate/Awedge64/geometry/setXLength 0.0207043 mm
+/gate/Awedge64/geometry/setYLength 0.17229 mm 
+/gate/Awedge64/geometry/setZLength 32 mm
+/gate/Awedge64/setMaterial Aluminium
+/gate/Awedge64/vis/setColor gray
+/gate/Awedge64/placement/setTranslation -3.30902 584.993 0 mm
+/gate/Awedge64/placement/setRotationAxis 0 0 1
+/gate/Awedge64/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge65
+/gate/world/daughters/insert wedge
+/gate/Awedge65/geometry/setNarrowerXLength 0.0207043 mm
+/gate/Awedge65/geometry/setXLength 0.0464757 mm
+/gate/Awedge65/geometry/setYLength 0.172094 mm 
+/gate/Awedge65/geometry/setZLength 32 mm
+/gate/Awedge65/setMaterial Aluminium
+/gate/Awedge65/vis/setColor gray
+/gate/Awedge65/placement/setTranslation -3.48121 584.983 0 mm
+/gate/Awedge65/placement/setRotationAxis 0 0 1
+/gate/Awedge65/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge66
+/gate/world/daughters/insert wedge
+/gate/Awedge66/geometry/setNarrowerXLength 0.0464757 mm
+/gate/Awedge66/geometry/setXLength 0.0895483 mm
+/gate/Awedge66/geometry/setYLength 0.171507 mm 
+/gate/Awedge66/geometry/setZLength 32 mm
+/gate/Awedge66/setMaterial Aluminium
+/gate/Awedge66/vis/setColor gray
+/gate/Awedge66/placement/setTranslation -3.65301 584.966 0 mm
+/gate/Awedge66/placement/setRotationAxis 0 0 1
+/gate/Awedge66/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge67
+/gate/world/daughters/insert wedge
+/gate/Awedge67/geometry/setNarrowerXLength 0.0895483 mm
+/gate/Awedge67/geometry/setXLength 0.156031 mm
+/gate/Awedge67/geometry/setYLength 0.170435 mm 
+/gate/Awedge67/geometry/setZLength 32 mm
+/gate/Awedge67/setMaterial Aluminium
+/gate/Awedge67/vis/setColor gray
+/gate/Awedge67/placement/setTranslation -3.82398 584.939 0 mm
+/gate/Awedge67/placement/setRotationAxis 0 0 1
+/gate/Awedge67/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge68
+/gate/world/daughters/insert wedge
+/gate/Awedge68/geometry/setNarrowerXLength 0.156031 mm
+/gate/Awedge68/geometry/setXLength 0.251836 mm
+/gate/Awedge68/geometry/setYLength 0.168823 mm 
+/gate/Awedge68/geometry/setZLength 32 mm
+/gate/Awedge68/setMaterial Aluminium
+/gate/Awedge68/vis/setColor gray
+/gate/Awedge68/placement/setTranslation -3.99361 584.898 0 mm
+/gate/Awedge68/placement/setRotationAxis 0 0 1
+/gate/Awedge68/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge69
+/gate/world/daughters/insert wedge
+/gate/Awedge69/geometry/setNarrowerXLength 0.251836 mm
+/gate/Awedge69/geometry/setXLength 0.381792 mm
+/gate/Awedge69/geometry/setYLength 0.166677 mm 
+/gate/Awedge69/geometry/setZLength 32 mm
+/gate/Awedge69/setMaterial Aluminium
+/gate/Awedge69/vis/setColor gray
+/gate/Awedge69/placement/setTranslation -4.16136 584.842 0 mm
+/gate/Awedge69/placement/setRotationAxis 0 0 1
+/gate/Awedge69/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge70
+/gate/world/daughters/insert wedge
+/gate/Awedge70/geometry/setNarrowerXLength 0.381792 mm
+/gate/Awedge70/geometry/setXLength 0.548847 mm
+/gate/Awedge70/geometry/setYLength 0.164072 mm 
+/gate/Awedge70/geometry/setZLength 32 mm
+/gate/Awedge70/setMaterial Aluminium
+/gate/Awedge70/vis/setColor gray
+/gate/Awedge70/placement/setTranslation -4.32674 584.767 0 mm
+/gate/Awedge70/placement/setRotationAxis 0 0 1
+/gate/Awedge70/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge71
+/gate/world/daughters/insert wedge
+/gate/Awedge71/geometry/setNarrowerXLength 0.548847 mm
+/gate/Awedge71/geometry/setXLength 0.753524 mm
+/gate/Awedge71/geometry/setYLength 0.161148 mm 
+/gate/Awedge71/geometry/setZLength 32 mm
+/gate/Awedge71/setMaterial Aluminium
+/gate/Awedge71/vis/setColor gray
+/gate/Awedge71/placement/setTranslation -4.48935 584.674 0 mm
+/gate/Awedge71/placement/setRotationAxis 0 0 1
+/gate/Awedge71/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge72
+/gate/world/daughters/insert wedge
+/gate/Awedge72/geometry/setNarrowerXLength 0.753524 mm
+/gate/Awedge72/geometry/setXLength 0.993748 mm
+/gate/Awedge72/geometry/setYLength 0.158092 mm 
+/gate/Awedge72/geometry/setZLength 32 mm
+/gate/Awedge72/setMaterial Aluminium
+/gate/Awedge72/vis/setColor gray
+/gate/Awedge72/placement/setTranslation -4.64897 584.563 0 mm
+/gate/Awedge72/placement/setRotationAxis 0 0 1
+/gate/Awedge72/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge73
+/gate/world/daughters/insert wedge
+/gate/Awedge73/geometry/setNarrowerXLength 0.993748 mm
+/gate/Awedge73/geometry/setXLength 1.26504 mm
+/gate/Awedge73/geometry/setYLength 0.155111 mm 
+/gate/Awedge73/geometry/setZLength 32 mm
+/gate/Awedge73/setMaterial Aluminium
+/gate/Awedge73/vis/setColor gray
+/gate/Awedge73/placement/setTranslation -4.80557 584.435 0 mm
+/gate/Awedge73/placement/setRotationAxis 0 0 1
+/gate/Awedge73/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge74
+/gate/world/daughters/insert wedge
+/gate/Awedge74/geometry/setNarrowerXLength 1.26504 mm
+/gate/Awedge74/geometry/setXLength 1.561 mm
+/gate/Awedge74/geometry/setYLength 0.152405 mm 
+/gate/Awedge74/geometry/setZLength 32 mm
+/gate/Awedge74/setMaterial Aluminium
+/gate/Awedge74/vis/setColor gray
+/gate/Awedge74/placement/setTranslation -4.95933 584.293 0 mm
+/gate/Awedge74/placement/setRotationAxis 0 0 1
+/gate/Awedge74/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge75
+/gate/world/daughters/insert wedge
+/gate/Awedge75/geometry/setNarrowerXLength 1.561 mm
+/gate/Awedge75/geometry/setXLength 1.874 mm
+/gate/Awedge75/geometry/setYLength 0.150148 mm 
+/gate/Awedge75/geometry/setZLength 32 mm
+/gate/Awedge75/setMaterial Aluminium
+/gate/Awedge75/vis/setColor gray
+/gate/Awedge75/placement/setTranslation -5.1106 584.141 0 mm
+/gate/Awedge75/placement/setRotationAxis 0 0 1
+/gate/Awedge75/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge76
+/gate/world/daughters/insert wedge
+/gate/Awedge76/geometry/setNarrowerXLength 1.874 mm
+/gate/Awedge76/geometry/setXLength 2.19592 mm
+/gate/Awedge76/geometry/setYLength 0.148468 mm 
+/gate/Awedge76/geometry/setZLength 32 mm
+/gate/Awedge76/setMaterial Aluminium
+/gate/Awedge76/vis/setColor gray
+/gate/Awedge76/placement/setTranslation -5.25991 583.983 0 mm
+/gate/Awedge76/placement/setRotationAxis 0 0 1
+/gate/Awedge76/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge77
+/gate/world/daughters/insert wedge
+/gate/Awedge77/geometry/setNarrowerXLength 2.19592 mm
+/gate/Awedge77/geometry/setXLength 2.51877 mm
+/gate/Awedge77/geometry/setYLength 0.14744 mm 
+/gate/Awedge77/geometry/setZLength 32 mm
+/gate/Awedge77/setMaterial Aluminium
+/gate/Awedge77/vis/setColor gray
+/gate/Awedge77/placement/setTranslation -5.40787 583.821 0 mm
+/gate/Awedge77/placement/setRotationAxis 0 0 1
+/gate/Awedge77/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge78
+/gate/world/daughters/insert wedge
+/gate/Awedge78/geometry/setNarrowerXLength 2.51877 mm
+/gate/Awedge78/geometry/setXLength 2.83528 mm
+/gate/Awedge78/geometry/setYLength 0.14709 mm 
+/gate/Awedge78/geometry/setZLength 32 mm
+/gate/Awedge78/setMaterial Aluminium
+/gate/Awedge78/vis/setColor gray
+/gate/Awedge78/placement/setTranslation -5.55513 583.661 0 mm
+/gate/Awedge78/placement/setRotationAxis 0 0 1
+/gate/Awedge78/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge79
+/gate/world/daughters/insert wedge
+/gate/Awedge79/geometry/setNarrowerXLength 2.83528 mm
+/gate/Awedge79/geometry/setXLength 3.13925 mm
+/gate/Awedge79/geometry/setYLength 0.147402 mm 
+/gate/Awedge79/geometry/setZLength 32 mm
+/gate/Awedge79/setMaterial Aluminium
+/gate/Awedge79/vis/setColor gray
+/gate/Awedge79/placement/setTranslation -5.70238 583.506 0 mm
+/gate/Awedge79/placement/setRotationAxis 0 0 1
+/gate/Awedge79/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge80
+/gate/world/daughters/insert wedge
+/gate/Awedge80/geometry/setNarrowerXLength 3.13925 mm
+/gate/Awedge80/geometry/setXLength 3.42575 mm
+/gate/Awedge80/geometry/setYLength 0.148322 mm 
+/gate/Awedge80/geometry/setZLength 32 mm
+/gate/Awedge80/setMaterial Aluminium
+/gate/Awedge80/vis/setColor gray
+/gate/Awedge80/placement/setTranslation -5.85024 583.359 0 mm
+/gate/Awedge80/placement/setRotationAxis 0 0 1
+/gate/Awedge80/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge81
+/gate/world/daughters/insert wedge
+/gate/Awedge81/geometry/setNarrowerXLength 3.42575 mm
+/gate/Awedge81/geometry/setXLength 3.69117 mm
+/gate/Awedge81/geometry/setYLength 0.149777 mm 
+/gate/Awedge81/geometry/setZLength 32 mm
+/gate/Awedge81/setMaterial Aluminium
+/gate/Awedge81/vis/setColor gray
+/gate/Awedge81/placement/setTranslation -5.99929 583.221 0 mm
+/gate/Awedge81/placement/setRotationAxis 0 0 1
+/gate/Awedge81/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge82
+/gate/world/daughters/insert wedge
+/gate/Awedge82/geometry/setNarrowerXLength 3.69117 mm
+/gate/Awedge82/geometry/setXLength 4.15055 mm
+/gate/Awedge82/geometry/setYLength 0.305619 mm 
+/gate/Awedge82/geometry/setZLength 32 mm
+/gate/Awedge82/setMaterial Aluminium
+/gate/Awedge82/vis/setColor gray
+/gate/Awedge82/placement/setTranslation -6.22699 583.04 0 mm
+/gate/Awedge82/placement/setRotationAxis 0 0 1
+/gate/Awedge82/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge83
+/gate/world/daughters/insert wedge
+/gate/Awedge83/geometry/setNarrowerXLength 4.15055 mm
+/gate/Awedge83/geometry/setXLength 4.51118 mm
+/gate/Awedge83/geometry/setYLength 0.315656 mm 
+/gate/Awedge83/geometry/setZLength 32 mm
+/gate/Awedge83/setMaterial Aluminium
+/gate/Awedge83/vis/setColor gray
+/gate/Awedge83/placement/setTranslation -6.53762 582.835 0 mm
+/gate/Awedge83/placement/setRotationAxis 0 0 1
+/gate/Awedge83/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge84
+/gate/world/daughters/insert wedge
+/gate/Awedge84/geometry/setNarrowerXLength 4.51118 mm
+/gate/Awedge84/geometry/setXLength 4.77902 mm
+/gate/Awedge84/geometry/setYLength 0.326967 mm 
+/gate/Awedge84/geometry/setZLength 32 mm
+/gate/Awedge84/setMaterial Aluminium
+/gate/Awedge84/vis/setColor gray
+/gate/Awedge84/placement/setTranslation -6.85893 582.677 0 mm
+/gate/Awedge84/placement/setRotationAxis 0 0 1
+/gate/Awedge84/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge85
+/gate/world/daughters/insert wedge
+/gate/Awedge85/geometry/setNarrowerXLength 4.77902 mm
+/gate/Awedge85/geometry/setXLength 4.96655 mm
+/gate/Awedge85/geometry/setYLength 0.338649 mm 
+/gate/Awedge85/geometry/setZLength 32 mm
+/gate/Awedge85/setMaterial Aluminium
+/gate/Awedge85/vis/setColor gray
+/gate/Awedge85/placement/setTranslation -7.19174 582.564 0 mm
+/gate/Awedge85/placement/setRotationAxis 0 0 1
+/gate/Awedge85/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge86
+/gate/world/daughters/insert wedge
+/gate/Awedge86/geometry/setNarrowerXLength 4.96655 mm
+/gate/Awedge86/geometry/setXLength 5.08851 mm
+/gate/Awedge86/geometry/setYLength 0.350156 mm 
+/gate/Awedge86/geometry/setZLength 32 mm
+/gate/Awedge86/setMaterial Aluminium
+/gate/Awedge86/vis/setColor gray
+/gate/Awedge86/placement/setTranslation -7.53614 582.486 0 mm
+/gate/Awedge86/placement/setRotationAxis 0 0 1
+/gate/Awedge86/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge87
+/gate/world/daughters/insert wedge
+/gate/Awedge87/geometry/setNarrowerXLength 5.08851 mm
+/gate/Awedge87/geometry/setXLength 5.15919 mm
+/gate/Awedge87/geometry/setYLength 0.361236 mm 
+/gate/Awedge87/geometry/setZLength 32 mm
+/gate/Awedge87/setMaterial Aluminium
+/gate/Awedge87/vis/setColor gray
+/gate/Awedge87/placement/setTranslation -7.89184 582.438 0 mm
+/gate/Awedge87/placement/setRotationAxis 0 0 1
+/gate/Awedge87/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge88
+/gate/world/daughters/insert wedge
+/gate/Awedge88/geometry/setNarrowerXLength 5.15919 mm
+/gate/Awedge88/geometry/setXLength 5.19106 mm
+/gate/Awedge88/geometry/setYLength 0.371837 mm 
+/gate/Awedge88/geometry/setZLength 32 mm
+/gate/Awedge88/setMaterial Aluminium
+/gate/Awedge88/vis/setColor gray
+/gate/Awedge88/placement/setTranslation -8.25838 582.412 0 mm
+/gate/Awedge88/placement/setRotationAxis 0 0 1
+/gate/Awedge88/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedge89
+/gate/world/daughters/insert wedge
+/gate/Awedge89/geometry/setNarrowerXLength 5.19106 mm
+/gate/Awedge89/geometry/setXLength 5.19428 mm
+/gate/Awedge89/geometry/setYLength 0.382028 mm 
+/gate/Awedge89/geometry/setZLength 32 mm
+/gate/Awedge89/setMaterial Aluminium
+/gate/Awedge89/vis/setColor gray
+/gate/Awedge89/placement/setTranslation -8.63531 582.404 0 mm
+/gate/Awedge89/placement/setRotationAxis 0 0 1
+/gate/Awedge89/placement/setRotationAngle -90 deg
+/gate/world/daughters/name Awedgeizq
+/gate/world/daughters/insert box
+/gate/Awedgeizq/geometry/setXLength 80 mm
+/gate/Awedgeizq/geometry/setYLength 5.19428 mm 
+/gate/Awedgeizq/geometry/setZLength 32 mm
+/gate/Awedgeizq/setMaterial Aluminium
+/gate/Awedgeizq/vis/setColor gray
+/gate/Awedgeizq/placement/setTranslation -48.6353 582.403 0 mm

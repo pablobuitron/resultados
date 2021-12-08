@@ -1,0 +1,129 @@
+#-------------------oooooOOOOO00000OOOOOooooo---------------------#
+#								    #
+#		BRILLANCE BIG BORE - PHILIPS		 	    # 		
+#								    #
+#-------------------oooooOOOOO00000OOOOOooooo---------------------#
+
+
+#=====================================================
+# VERBOSE and VISUALISATION 
+#=====================================================
+
+/control/execute mac/verbose.mac
+/control/execute mac/visu.mac
+
+#=====================================================
+# GEOMETRY
+#=====================================================
+
+/gate/geometry/setMaterialDatabase data/GateMaterials.db
+
+# World
+/gate/world/geometry/setXLength 2 m
+/gate/world/geometry/setYLength 4 m
+/gate/world/geometry/setZLength 2.5 m
+/gate/world/setMaterial Air
+/gate/world/vis/forceWireframe
+/gate/world/vis/setVisible 1
+
+# Fantoma (cilindro de 32 cm de diametro y 15 cm de alto, eje paralelo al eje z) (Lámina radiocrómica Entre dos láminas de 0.5 cm de agua sólida)
+/gate/world/daughters/name             fantoma
+/gate/world/daughters/insert           box
+/gate/fantoma/setMaterial		Water
+/gate/fantoma/geometry/setXLength 	550 mm
+/gate/fantoma/geometry/setYLength 	55 mm
+/gate/fantoma/geometry/setZLength 	150 mm
+/gate/fantoma/placement/setTranslation 0 1317 0 mm
+
+#COLIMADOR 1 (T=24mm)
+/gate/world/daughters/name colim1
+/gate/world/daughters/insert box
+/gate/colim1/setMaterial Aluminium
+/gate/colim1/placement/setTranslation 0 872 253.7209302326 mm
+/gate/colim1/geometry/setXLength 500 mm
+/gate/colim1/geometry/setZLength 500 mm
+/gate/colim1/geometry/setYLength 5 mm
+/gate/colim1/vis/setColor magenta
+/gate/colim1/vis/forceWireframe
+
+#COLIMADOR 2 (T=24mm)
+/gate/world/daughters/name colim2
+/gate/world/daughters/insert box
+/gate/colim2/setMaterial Aluminium
+/gate/colim2/placement/setTranslation 0 872 -253.7209302326 mm
+/gate/colim2/geometry/setXLength 500 mm
+/gate/colim2/geometry/setZLength 500 mm
+/gate/colim2/geometry/setYLength 5 mm
+/gate/colim2/vis/setColor magenta
+/gate/colim2/vis/forceWireframe
+
+#COLIMADOR BOW-TIE
+/control/execute mac/BTP60mmGATExprueba.mac
+/control/execute mac/BTA60mmGATE.mac
+
+#=====================================================
+# PHYSICS
+#=====================================================
+
+/control/execute mac/physicslist_EM_std.mac
+
+/gate/physics/Gamma/SetCutInRegion      world 1 mm
+/gate/physics/Electron/SetCutInRegion   world 1 mm
+/gate/physics/Positron/SetCutInRegion   world 1 mm
+
+/gate/physics/Gamma/SetCutInRegion      fantoma 0.1 mm
+/gate/physics/Electron/SetCutInRegion   fantoma 0.1 mm
+/gate/physics/Positron/SetCutInRegion   fantoma 0.1 mm
+
+#=====================================================
+# DETECTORS
+#=====================================================
+/gate/actor/addActor                                DoseActor  doseDistributionC
+/gate/actor/doseDistributionC/save                  output/FotonesP.txt
+/gate/actor/doseDistributionC/attachTo    	      fantoma
+/gate/actor/doseDistributionC/stepHitType           random
+#/gate/actor/doseDistributionC/setPosition           0 1317 0 mm
+/gate/actor/doseDistributionC/setSize               550 55 150 mm
+/gate/actor/doseDistributionC/setResolution         100 1 1 
+/gate/actor/doseDistributionC/saveEveryNSeconds	    600
+#/gate/doseDistributionC/vis/setColor magenta
+/gate/actor/doseDistributionC/enableEdep            false
+/gate/actor/doseDistributionC/enableUncertaintyEdep false
+/gate/actor/doseDistributionC/enableDose            true
+/gate/actor/doseDistributionC/enableUncertaintyDose false
+/gate/actor/doseDistributionC/enableNumberOfHits    false
+
+/gate/actor/addActor                		    SimulationStatisticActor stat
+/gate/actor/stat/save               	 	    output/statFotonesP.txt
+/gate/actor/stat/saveEveryNSeconds	            600
+
+/gate/actor/addActor       KillActor kill1
+/gate/actor/kill1/attachTo colim1
+
+/gate/actor/addActor       KillActor kill2
+/gate/actor/kill2/attachTo colim2
+
+#=====================================================
+# INITIALISATION
+#=====================================================
+
+/gate/run/initialize
+
+#=====================================================
+# BEAMS
+#=====================================================
+
+/control/execute data/haz.mac
+/vis/scene/add/trajectories
+
+#=====================================================
+# START BEAMS
+#=====================================================
+
+/gate/random/setEngineName MersenneTwister
+/gate/random/setEngineSeed auto
+#/gate/application/setTotalNumberOfPrimaries 100
+/gate/application/setTimeStart     0.  s
+/gate/application/setTimeStop      0.01 s
+
+#/gate/application/startDAQ

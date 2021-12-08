@@ -1,0 +1,1094 @@
+/gate/world/daughters/name Pwedge0
+/gate/world/daughters/insert wedge
+/gate/Pwedge0/geometry/setNarrowerXLength 1e-05 mm
+/gate/Pwedge0/geometry/setXLength 0.00342656 mm
+/gate/Pwedge0/geometry/setYLength 0.48696 mm 
+/gate/Pwedge0/geometry/setZLength 32 mm
+/gate/Pwedge0/setMaterial PMMA
+/gate/Pwedge0/vis/setColor yellow
+/gate/Pwedge0/placement/setTranslation 0.24348 585.001 0 mm
+/gate/Pwedge0/placement/setRotationAxis 0 0 1
+/gate/Pwedge0/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge1
+/gate/world/daughters/insert wedge
+/gate/Pwedge1/geometry/setNarrowerXLength 0.00342656 mm
+/gate/Pwedge1/geometry/setXLength 0.00685367 mm
+/gate/Pwedge1/geometry/setYLength 0.48704 mm 
+/gate/Pwedge1/geometry/setZLength 32 mm
+/gate/Pwedge1/setMaterial PMMA
+/gate/Pwedge1/vis/setColor yellow
+/gate/Pwedge1/placement/setTranslation 0.73048 585.003 0 mm
+/gate/Pwedge1/placement/setRotationAxis 0 0 1
+/gate/Pwedge1/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge2
+/gate/world/daughters/insert wedge
+/gate/Pwedge2/geometry/setNarrowerXLength 0.00685367 mm
+/gate/Pwedge2/geometry/setXLength 0.0182759 mm
+/gate/Pwedge2/geometry/setYLength 0.487199 mm 
+/gate/Pwedge2/geometry/setZLength 32 mm
+/gate/Pwedge2/setMaterial PMMA
+/gate/Pwedge2/vis/setColor yellow
+/gate/Pwedge2/placement/setTranslation 1.2176 585.006 0 mm
+/gate/Pwedge2/placement/setRotationAxis 0 0 1
+/gate/Pwedge2/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge3
+/gate/world/daughters/insert wedge
+/gate/Pwedge3/geometry/setNarrowerXLength 0.0182759 mm
+/gate/Pwedge3/geometry/setXLength 0.0342657 mm
+/gate/Pwedge3/geometry/setYLength 0.487438 mm 
+/gate/Pwedge3/geometry/setZLength 32 mm
+/gate/Pwedge3/setMaterial PMMA
+/gate/Pwedge3/vis/setColor yellow
+/gate/Pwedge3/placement/setTranslation 1.70492 585.013 0 mm
+/gate/Pwedge3/placement/setRotationAxis 0 0 1
+/gate/Pwedge3/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge4
+/gate/world/daughters/insert wedge
+/gate/Pwedge4/geometry/setNarrowerXLength 0.0342657 mm
+/gate/Pwedge4/geometry/setXLength 0.0548221 mm
+/gate/Pwedge4/geometry/setYLength 0.487756 mm 
+/gate/Pwedge4/geometry/setZLength 32 mm
+/gate/Pwedge4/setMaterial PMMA
+/gate/Pwedge4/vis/setColor yellow
+/gate/Pwedge4/placement/setTranslation 2.19251 585.022 0 mm
+/gate/Pwedge4/placement/setRotationAxis 0 0 1
+/gate/Pwedge4/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge5
+/gate/world/daughters/insert wedge
+/gate/Pwedge5/geometry/setNarrowerXLength 0.0548221 mm
+/gate/Pwedge5/geometry/setXLength 0.0799433 mm
+/gate/Pwedge5/geometry/setYLength 0.488155 mm 
+/gate/Pwedge5/geometry/setZLength 32 mm
+/gate/Pwedge5/setMaterial PMMA
+/gate/Pwedge5/vis/setColor yellow
+/gate/Pwedge5/placement/setTranslation 2.68047 585.034 0 mm
+/gate/Pwedge5/placement/setRotationAxis 0 0 1
+/gate/Pwedge5/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge6
+/gate/world/daughters/insert wedge
+/gate/Pwedge6/geometry/setNarrowerXLength 0.0799433 mm
+/gate/Pwedge6/geometry/setXLength 0.109627 mm
+/gate/Pwedge6/geometry/setYLength 0.488634 mm 
+/gate/Pwedge6/geometry/setZLength 32 mm
+/gate/Pwedge6/setMaterial PMMA
+/gate/Pwedge6/vis/setColor yellow
+/gate/Pwedge6/placement/setTranslation 3.16886 585.047 0 mm
+/gate/Pwedge6/placement/setRotationAxis 0 0 1
+/gate/Pwedge6/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge7
+/gate/world/daughters/insert wedge
+/gate/Pwedge7/geometry/setNarrowerXLength 0.109627 mm
+/gate/Pwedge7/geometry/setXLength 0.143872 mm
+/gate/Pwedge7/geometry/setYLength 0.489194 mm 
+/gate/Pwedge7/geometry/setZLength 32 mm
+/gate/Pwedge7/setMaterial PMMA
+/gate/Pwedge7/vis/setColor yellow
+/gate/Pwedge7/placement/setTranslation 3.65778 585.063 0 mm
+/gate/Pwedge7/placement/setRotationAxis 0 0 1
+/gate/Pwedge7/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge8
+/gate/world/daughters/insert wedge
+/gate/Pwedge8/geometry/setNarrowerXLength 0.143872 mm
+/gate/Pwedge8/geometry/setXLength 0.182675 mm
+/gate/Pwedge8/geometry/setYLength 0.489834 mm 
+/gate/Pwedge8/geometry/setZLength 32 mm
+/gate/Pwedge8/setMaterial PMMA
+/gate/Pwedge8/vis/setColor yellow
+/gate/Pwedge8/placement/setTranslation 4.14729 585.082 0 mm
+/gate/Pwedge8/placement/setRotationAxis 0 0 1
+/gate/Pwedge8/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge9
+/gate/world/daughters/insert wedge
+/gate/Pwedge9/geometry/setNarrowerXLength 0.182675 mm
+/gate/Pwedge9/geometry/setXLength 0.226033 mm
+/gate/Pwedge9/geometry/setYLength 0.490556 mm 
+/gate/Pwedge9/geometry/setZLength 32 mm
+/gate/Pwedge9/setMaterial PMMA
+/gate/Pwedge9/vis/setColor yellow
+/gate/Pwedge9/placement/setTranslation 4.63749 585.102 0 mm
+/gate/Pwedge9/placement/setRotationAxis 0 0 1
+/gate/Pwedge9/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge10
+/gate/world/daughters/insert wedge
+/gate/Pwedge10/geometry/setNarrowerXLength 0.226033 mm
+/gate/Pwedge10/geometry/setXLength 0.273943 mm
+/gate/Pwedge10/geometry/setYLength 0.491359 mm 
+/gate/Pwedge10/geometry/setZLength 32 mm
+/gate/Pwedge10/setMaterial PMMA
+/gate/Pwedge10/vis/setColor yellow
+/gate/Pwedge10/placement/setTranslation 5.12844 585.125 0 mm
+/gate/Pwedge10/placement/setRotationAxis 0 0 1
+/gate/Pwedge10/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge11
+/gate/world/daughters/insert wedge
+/gate/Pwedge11/geometry/setNarrowerXLength 0.273943 mm
+/gate/Pwedge11/geometry/setXLength 0.326402 mm
+/gate/Pwedge11/geometry/setYLength 0.492245 mm 
+/gate/Pwedge11/geometry/setZLength 32 mm
+/gate/Pwedge11/setMaterial PMMA
+/gate/Pwedge11/vis/setColor yellow
+/gate/Pwedge11/placement/setTranslation 5.62025 585.15 0 mm
+/gate/Pwedge11/placement/setRotationAxis 0 0 1
+/gate/Pwedge11/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge12
+/gate/world/daughters/insert wedge
+/gate/Pwedge12/geometry/setNarrowerXLength 0.326402 mm
+/gate/Pwedge12/geometry/setXLength 0.383404 mm
+/gate/Pwedge12/geometry/setYLength 0.493213 mm 
+/gate/Pwedge12/geometry/setZLength 32 mm
+/gate/Pwedge12/setMaterial PMMA
+/gate/Pwedge12/vis/setColor yellow
+/gate/Pwedge12/placement/setTranslation 6.11298 585.177 0 mm
+/gate/Pwedge12/placement/setRotationAxis 0 0 1
+/gate/Pwedge12/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge13
+/gate/world/daughters/insert wedge
+/gate/Pwedge13/geometry/setNarrowerXLength 0.383404 mm
+/gate/Pwedge13/geometry/setXLength 0.444946 mm
+/gate/Pwedge13/geometry/setYLength 0.494265 mm 
+/gate/Pwedge13/geometry/setZLength 32 mm
+/gate/Pwedge13/setMaterial PMMA
+/gate/Pwedge13/vis/setColor yellow
+/gate/Pwedge13/placement/setTranslation 6.60672 585.207 0 mm
+/gate/Pwedge13/placement/setRotationAxis 0 0 1
+/gate/Pwedge13/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge14
+/gate/world/daughters/insert wedge
+/gate/Pwedge14/geometry/setNarrowerXLength 0.444946 mm
+/gate/Pwedge14/geometry/setXLength 0.511024 mm
+/gate/Pwedge14/geometry/setYLength 0.495401 mm 
+/gate/Pwedge14/geometry/setZLength 32 mm
+/gate/Pwedge14/setMaterial PMMA
+/gate/Pwedge14/vis/setColor yellow
+/gate/Pwedge14/placement/setTranslation 7.10155 585.239 0 mm
+/gate/Pwedge14/placement/setRotationAxis 0 0 1
+/gate/Pwedge14/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge15
+/gate/world/daughters/insert wedge
+/gate/Pwedge15/geometry/setNarrowerXLength 0.511024 mm
+/gate/Pwedge15/geometry/setXLength 0.581631 mm
+/gate/Pwedge15/geometry/setYLength 0.496621 mm 
+/gate/Pwedge15/geometry/setZLength 32 mm
+/gate/Pwedge15/setMaterial PMMA
+/gate/Pwedge15/vis/setColor yellow
+/gate/Pwedge15/placement/setTranslation 7.59756 585.273 0 mm
+/gate/Pwedge15/placement/setRotationAxis 0 0 1
+/gate/Pwedge15/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge16
+/gate/world/daughters/insert wedge
+/gate/Pwedge16/geometry/setNarrowerXLength 0.581631 mm
+/gate/Pwedge16/geometry/setXLength 0.656764 mm
+/gate/Pwedge16/geometry/setYLength 0.497927 mm 
+/gate/Pwedge16/geometry/setZLength 32 mm
+/gate/Pwedge16/setMaterial PMMA
+/gate/Pwedge16/vis/setColor yellow
+/gate/Pwedge16/placement/setTranslation 8.09483 585.31 0 mm
+/gate/Pwedge16/placement/setRotationAxis 0 0 1
+/gate/Pwedge16/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge17
+/gate/world/daughters/insert wedge
+/gate/Pwedge17/geometry/setNarrowerXLength 0.656764 mm
+/gate/Pwedge17/geometry/setXLength 0.736417 mm
+/gate/Pwedge17/geometry/setYLength 0.499318 mm 
+/gate/Pwedge17/geometry/setZLength 32 mm
+/gate/Pwedge17/setMaterial PMMA
+/gate/Pwedge17/vis/setColor yellow
+/gate/Pwedge17/placement/setTranslation 8.59346 585.348 0 mm
+/gate/Pwedge17/placement/setRotationAxis 0 0 1
+/gate/Pwedge17/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge18
+/gate/world/daughters/insert wedge
+/gate/Pwedge18/geometry/setNarrowerXLength 0.736417 mm
+/gate/Pwedge18/geometry/setXLength 0.820583 mm
+/gate/Pwedge18/geometry/setYLength 0.500797 mm 
+/gate/Pwedge18/geometry/setZLength 32 mm
+/gate/Pwedge18/setMaterial PMMA
+/gate/Pwedge18/vis/setColor yellow
+/gate/Pwedge18/placement/setTranslation 9.09351 585.389 0 mm
+/gate/Pwedge18/placement/setRotationAxis 0 0 1
+/gate/Pwedge18/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge19
+/gate/world/daughters/insert wedge
+/gate/Pwedge19/geometry/setNarrowerXLength 0.820583 mm
+/gate/Pwedge19/geometry/setXLength 0.909259 mm
+/gate/Pwedge19/geometry/setYLength 0.502364 mm 
+/gate/Pwedge19/geometry/setZLength 32 mm
+/gate/Pwedge19/setMaterial PMMA
+/gate/Pwedge19/vis/setColor yellow
+/gate/Pwedge19/placement/setTranslation 9.59509 585.432 0 mm
+/gate/Pwedge19/placement/setRotationAxis 0 0 1
+/gate/Pwedge19/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge20
+/gate/world/daughters/insert wedge
+/gate/Pwedge20/geometry/setNarrowerXLength 0.909259 mm
+/gate/Pwedge20/geometry/setXLength 1.00244 mm
+/gate/Pwedge20/geometry/setYLength 0.50402 mm 
+/gate/Pwedge20/geometry/setZLength 32 mm
+/gate/Pwedge20/setMaterial PMMA
+/gate/Pwedge20/vis/setColor yellow
+/gate/Pwedge20/placement/setTranslation 10.0983 585.478 0 mm
+/gate/Pwedge20/placement/setRotationAxis 0 0 1
+/gate/Pwedge20/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge21
+/gate/world/daughters/insert wedge
+/gate/Pwedge21/geometry/setNarrowerXLength 1.00244 mm
+/gate/Pwedge21/geometry/setXLength 1.10012 mm
+/gate/Pwedge21/geometry/setYLength 0.505766 mm 
+/gate/Pwedge21/geometry/setZLength 32 mm
+/gate/Pwedge21/setMaterial PMMA
+/gate/Pwedge21/vis/setColor yellow
+/gate/Pwedge21/placement/setTranslation 10.6032 585.526 0 mm
+/gate/Pwedge21/placement/setRotationAxis 0 0 1
+/gate/Pwedge21/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge22
+/gate/world/daughters/insert wedge
+/gate/Pwedge22/geometry/setNarrowerXLength 1.10012 mm
+/gate/Pwedge22/geometry/setXLength 1.2023 mm
+/gate/Pwedge22/geometry/setYLength 0.507602 mm 
+/gate/Pwedge22/geometry/setZLength 32 mm
+/gate/Pwedge22/setMaterial PMMA
+/gate/Pwedge22/vis/setColor yellow
+/gate/Pwedge22/placement/setTranslation 11.1099 585.576 0 mm
+/gate/Pwedge22/placement/setRotationAxis 0 0 1
+/gate/Pwedge22/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge23
+/gate/world/daughters/insert wedge
+/gate/Pwedge23/geometry/setNarrowerXLength 1.2023 mm
+/gate/Pwedge23/geometry/setXLength 1.30897 mm
+/gate/Pwedge23/geometry/setYLength 0.509532 mm 
+/gate/Pwedge23/geometry/setZLength 32 mm
+/gate/Pwedge23/setMaterial PMMA
+/gate/Pwedge23/vis/setColor yellow
+/gate/Pwedge23/placement/setTranslation 11.6184 585.628 0 mm
+/gate/Pwedge23/placement/setRotationAxis 0 0 1
+/gate/Pwedge23/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge24
+/gate/world/daughters/insert wedge
+/gate/Pwedge24/geometry/setNarrowerXLength 1.30897 mm
+/gate/Pwedge24/geometry/setXLength 1.42015 mm
+/gate/Pwedge24/geometry/setYLength 0.511554 mm 
+/gate/Pwedge24/geometry/setZLength 32 mm
+/gate/Pwedge24/setMaterial PMMA
+/gate/Pwedge24/vis/setColor yellow
+/gate/Pwedge24/placement/setTranslation 12.129 585.682 0 mm
+/gate/Pwedge24/placement/setRotationAxis 0 0 1
+/gate/Pwedge24/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge25
+/gate/world/daughters/insert wedge
+/gate/Pwedge25/geometry/setNarrowerXLength 1.42015 mm
+/gate/Pwedge25/geometry/setXLength 1.53584 mm
+/gate/Pwedge25/geometry/setYLength 0.513672 mm 
+/gate/Pwedge25/geometry/setZLength 32 mm
+/gate/Pwedge25/setMaterial PMMA
+/gate/Pwedge25/vis/setColor yellow
+/gate/Pwedge25/placement/setTranslation 12.6416 585.739 0 mm
+/gate/Pwedge25/placement/setRotationAxis 0 0 1
+/gate/Pwedge25/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge26
+/gate/world/daughters/insert wedge
+/gate/Pwedge26/geometry/setNarrowerXLength 1.53584 mm
+/gate/Pwedge26/geometry/setXLength 1.65606 mm
+/gate/Pwedge26/geometry/setYLength 0.515886 mm 
+/gate/Pwedge26/geometry/setZLength 32 mm
+/gate/Pwedge26/setMaterial PMMA
+/gate/Pwedge26/vis/setColor yellow
+/gate/Pwedge26/placement/setTranslation 13.1564 585.798 0 mm
+/gate/Pwedge26/placement/setRotationAxis 0 0 1
+/gate/Pwedge26/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge27
+/gate/world/daughters/insert wedge
+/gate/Pwedge27/geometry/setNarrowerXLength 1.65606 mm
+/gate/Pwedge27/geometry/setXLength 1.78082 mm
+/gate/Pwedge27/geometry/setYLength 0.518198 mm 
+/gate/Pwedge27/geometry/setZLength 32 mm
+/gate/Pwedge27/setMaterial PMMA
+/gate/Pwedge27/vis/setColor yellow
+/gate/Pwedge27/placement/setTranslation 13.6734 585.859 0 mm
+/gate/Pwedge27/placement/setRotationAxis 0 0 1
+/gate/Pwedge27/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge28
+/gate/world/daughters/insert wedge
+/gate/Pwedge28/geometry/setNarrowerXLength 1.78082 mm
+/gate/Pwedge28/geometry/setXLength 1.91018 mm
+/gate/Pwedge28/geometry/setYLength 0.520609 mm 
+/gate/Pwedge28/geometry/setZLength 32 mm
+/gate/Pwedge28/setMaterial PMMA
+/gate/Pwedge28/vis/setColor yellow
+/gate/Pwedge28/placement/setTranslation 14.1928 585.923 0 mm
+/gate/Pwedge28/placement/setRotationAxis 0 0 1
+/gate/Pwedge28/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge29
+/gate/world/daughters/insert wedge
+/gate/Pwedge29/geometry/setNarrowerXLength 1.91018 mm
+/gate/Pwedge29/geometry/setXLength 2.04419 mm
+/gate/Pwedge29/geometry/setYLength 0.523123 mm 
+/gate/Pwedge29/geometry/setZLength 32 mm
+/gate/Pwedge29/setMaterial PMMA
+/gate/Pwedge29/vis/setColor yellow
+/gate/Pwedge29/placement/setTranslation 14.7147 585.989 0 mm
+/gate/Pwedge29/placement/setRotationAxis 0 0 1
+/gate/Pwedge29/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge30
+/gate/world/daughters/insert wedge
+/gate/Pwedge30/geometry/setNarrowerXLength 2.04419 mm
+/gate/Pwedge30/geometry/setXLength 2.18293 mm
+/gate/Pwedge30/geometry/setYLength 0.525739 mm 
+/gate/Pwedge30/geometry/setZLength 32 mm
+/gate/Pwedge30/setMaterial PMMA
+/gate/Pwedge30/vis/setColor yellow
+/gate/Pwedge30/placement/setTranslation 15.2391 586.057 0 mm
+/gate/Pwedge30/placement/setRotationAxis 0 0 1
+/gate/Pwedge30/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge31
+/gate/world/daughters/insert wedge
+/gate/Pwedge31/geometry/setNarrowerXLength 2.18293 mm
+/gate/Pwedge31/geometry/setXLength 2.3265 mm
+/gate/Pwedge31/geometry/setYLength 0.528462 mm 
+/gate/Pwedge31/geometry/setZLength 32 mm
+/gate/Pwedge31/setMaterial PMMA
+/gate/Pwedge31/vis/setColor yellow
+/gate/Pwedge31/placement/setTranslation 15.7662 586.127 0 mm
+/gate/Pwedge31/placement/setRotationAxis 0 0 1
+/gate/Pwedge31/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge32
+/gate/world/daughters/insert wedge
+/gate/Pwedge32/geometry/setNarrowerXLength 2.3265 mm
+/gate/Pwedge32/geometry/setXLength 2.47506 mm
+/gate/Pwedge32/geometry/setYLength 0.531293 mm 
+/gate/Pwedge32/geometry/setZLength 32 mm
+/gate/Pwedge32/setMaterial PMMA
+/gate/Pwedge32/vis/setColor yellow
+/gate/Pwedge32/placement/setTranslation 16.2961 586.2 0 mm
+/gate/Pwedge32/placement/setRotationAxis 0 0 1
+/gate/Pwedge32/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge33
+/gate/world/daughters/insert wedge
+/gate/Pwedge33/geometry/setNarrowerXLength 2.47506 mm
+/gate/Pwedge33/geometry/setXLength 2.6288 mm
+/gate/Pwedge33/geometry/setYLength 0.534235 mm 
+/gate/Pwedge33/geometry/setZLength 32 mm
+/gate/Pwedge33/setMaterial PMMA
+/gate/Pwedge33/vis/setColor yellow
+/gate/Pwedge33/placement/setTranslation 16.8288 586.276 0 mm
+/gate/Pwedge33/placement/setRotationAxis 0 0 1
+/gate/Pwedge33/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge34
+/gate/world/daughters/insert wedge
+/gate/Pwedge34/geometry/setNarrowerXLength 2.6288 mm
+/gate/Pwedge34/geometry/setXLength 2.78797 mm
+/gate/Pwedge34/geometry/setYLength 0.537291 mm 
+/gate/Pwedge34/geometry/setZLength 32 mm
+/gate/Pwedge34/setMaterial PMMA
+/gate/Pwedge34/vis/setColor yellow
+/gate/Pwedge34/placement/setTranslation 17.3646 586.354 0 mm
+/gate/Pwedge34/placement/setRotationAxis 0 0 1
+/gate/Pwedge34/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge35
+/gate/world/daughters/insert wedge
+/gate/Pwedge35/geometry/setNarrowerXLength 2.78797 mm
+/gate/Pwedge35/geometry/setXLength 2.95289 mm
+/gate/Pwedge35/geometry/setYLength 0.540466 mm 
+/gate/Pwedge35/geometry/setZLength 32 mm
+/gate/Pwedge35/setMaterial PMMA
+/gate/Pwedge35/vis/setColor yellow
+/gate/Pwedge35/placement/setTranslation 17.9035 586.435 0 mm
+/gate/Pwedge35/placement/setRotationAxis 0 0 1
+/gate/Pwedge35/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge36
+/gate/world/daughters/insert wedge
+/gate/Pwedge36/geometry/setNarrowerXLength 2.95289 mm
+/gate/Pwedge36/geometry/setXLength 3.124 mm
+/gate/Pwedge36/geometry/setYLength 0.543763 mm 
+/gate/Pwedge36/geometry/setZLength 32 mm
+/gate/Pwedge36/setMaterial PMMA
+/gate/Pwedge36/vis/setColor yellow
+/gate/Pwedge36/placement/setTranslation 18.4456 586.519 0 mm
+/gate/Pwedge36/placement/setRotationAxis 0 0 1
+/gate/Pwedge36/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge37
+/gate/world/daughters/insert wedge
+/gate/Pwedge37/geometry/setNarrowerXLength 3.124 mm
+/gate/Pwedge37/geometry/setXLength 3.30179 mm
+/gate/Pwedge37/geometry/setYLength 0.547186 mm 
+/gate/Pwedge37/geometry/setZLength 32 mm
+/gate/Pwedge37/setMaterial PMMA
+/gate/Pwedge37/vis/setColor yellow
+/gate/Pwedge37/placement/setTranslation 18.9911 586.606 0 mm
+/gate/Pwedge37/placement/setRotationAxis 0 0 1
+/gate/Pwedge37/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge38
+/gate/world/daughters/insert wedge
+/gate/Pwedge38/geometry/setNarrowerXLength 3.30179 mm
+/gate/Pwedge38/geometry/setXLength 3.48695 mm
+/gate/Pwedge38/geometry/setYLength 0.550742 mm 
+/gate/Pwedge38/geometry/setZLength 32 mm
+/gate/Pwedge38/setMaterial PMMA
+/gate/Pwedge38/vis/setColor yellow
+/gate/Pwedge38/placement/setTranslation 19.54 586.697 0 mm
+/gate/Pwedge38/placement/setRotationAxis 0 0 1
+/gate/Pwedge38/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge39
+/gate/world/daughters/insert wedge
+/gate/Pwedge39/geometry/setNarrowerXLength 3.48695 mm
+/gate/Pwedge39/geometry/setXLength 3.68027 mm
+/gate/Pwedge39/geometry/setYLength 0.554436 mm 
+/gate/Pwedge39/geometry/setZLength 32 mm
+/gate/Pwedge39/setMaterial PMMA
+/gate/Pwedge39/vis/setColor yellow
+/gate/Pwedge39/placement/setTranslation 20.0926 586.792 0 mm
+/gate/Pwedge39/placement/setRotationAxis 0 0 1
+/gate/Pwedge39/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge40
+/gate/world/daughters/insert wedge
+/gate/Pwedge40/geometry/setNarrowerXLength 3.68027 mm
+/gate/Pwedge40/geometry/setXLength 3.88275 mm
+/gate/Pwedge40/geometry/setYLength 0.558276 mm 
+/gate/Pwedge40/geometry/setZLength 32 mm
+/gate/Pwedge40/setMaterial PMMA
+/gate/Pwedge40/vis/setColor yellow
+/gate/Pwedge40/placement/setTranslation 20.649 586.891 0 mm
+/gate/Pwedge40/placement/setRotationAxis 0 0 1
+/gate/Pwedge40/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge41
+/gate/world/daughters/insert wedge
+/gate/Pwedge41/geometry/setNarrowerXLength 3.88275 mm
+/gate/Pwedge41/geometry/setXLength 4.09562 mm
+/gate/Pwedge41/geometry/setYLength 0.56227 mm 
+/gate/Pwedge41/geometry/setZLength 32 mm
+/gate/Pwedge41/setMaterial PMMA
+/gate/Pwedge41/vis/setColor yellow
+/gate/Pwedge41/placement/setTranslation 21.2093 586.995 0 mm
+/gate/Pwedge41/placement/setRotationAxis 0 0 1
+/gate/Pwedge41/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge42
+/gate/world/daughters/insert wedge
+/gate/Pwedge42/geometry/setNarrowerXLength 4.09562 mm
+/gate/Pwedge42/geometry/setXLength 4.32035 mm
+/gate/Pwedge42/geometry/setYLength 0.566427 mm 
+/gate/Pwedge42/geometry/setZLength 32 mm
+/gate/Pwedge42/setMaterial PMMA
+/gate/Pwedge42/vis/setColor yellow
+/gate/Pwedge42/placement/setTranslation 21.7736 587.104 0 mm
+/gate/Pwedge42/placement/setRotationAxis 0 0 1
+/gate/Pwedge42/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge43
+/gate/world/daughters/insert wedge
+/gate/Pwedge43/geometry/setNarrowerXLength 4.32035 mm
+/gate/Pwedge43/geometry/setXLength 4.55872 mm
+/gate/Pwedge43/geometry/setYLength 0.57076 mm 
+/gate/Pwedge43/geometry/setZLength 32 mm
+/gate/Pwedge43/setMaterial PMMA
+/gate/Pwedge43/vis/setColor yellow
+/gate/Pwedge43/placement/setTranslation 22.3422 587.22 0 mm
+/gate/Pwedge43/placement/setRotationAxis 0 0 1
+/gate/Pwedge43/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge44
+/gate/world/daughters/insert wedge
+/gate/Pwedge44/geometry/setNarrowerXLength 4.55872 mm
+/gate/Pwedge44/geometry/setXLength 4.81287 mm
+/gate/Pwedge44/geometry/setYLength 0.575281 mm 
+/gate/Pwedge44/geometry/setZLength 32 mm
+/gate/Pwedge44/setMaterial PMMA
+/gate/Pwedge44/vis/setColor yellow
+/gate/Pwedge44/placement/setTranslation 22.9152 587.343 0 mm
+/gate/Pwedge44/placement/setRotationAxis 0 0 1
+/gate/Pwedge44/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge45
+/gate/world/daughters/insert wedge
+/gate/Pwedge45/geometry/setNarrowerXLength 4.81287 mm
+/gate/Pwedge45/geometry/setXLength 5.0853 mm
+/gate/Pwedge45/geometry/setYLength 0.580005 mm 
+/gate/Pwedge45/geometry/setZLength 32 mm
+/gate/Pwedge45/setMaterial PMMA
+/gate/Pwedge45/vis/setColor yellow
+/gate/Pwedge45/placement/setTranslation 23.4929 587.475 0 mm
+/gate/Pwedge45/placement/setRotationAxis 0 0 1
+/gate/Pwedge45/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge46
+/gate/world/daughters/insert wedge
+/gate/Pwedge46/geometry/setNarrowerXLength 5.0853 mm
+/gate/Pwedge46/geometry/setXLength 5.37901 mm
+/gate/Pwedge46/geometry/setYLength 0.584949 mm 
+/gate/Pwedge46/geometry/setZLength 32 mm
+/gate/Pwedge46/setMaterial PMMA
+/gate/Pwedge46/vis/setColor yellow
+/gate/Pwedge46/placement/setTranslation 24.0753 587.616 0 mm
+/gate/Pwedge46/placement/setRotationAxis 0 0 1
+/gate/Pwedge46/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge47
+/gate/world/daughters/insert wedge
+/gate/Pwedge47/geometry/setNarrowerXLength 5.37901 mm
+/gate/Pwedge47/geometry/setXLength 5.69747 mm
+/gate/Pwedge47/geometry/setYLength 0.590133 mm 
+/gate/Pwedge47/geometry/setZLength 32 mm
+/gate/Pwedge47/setMaterial PMMA
+/gate/Pwedge47/vis/setColor yellow
+/gate/Pwedge47/placement/setTranslation 24.6629 587.769 0 mm
+/gate/Pwedge47/placement/setRotationAxis 0 0 1
+/gate/Pwedge47/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedge48
+/gate/world/daughters/insert wedge
+/gate/Pwedge48/geometry/setNarrowerXLength 5.69747 mm
+/gate/Pwedge48/geometry/setXLength 6.04473 mm
+/gate/Pwedge48/geometry/setYLength 0.595578 mm 
+/gate/Pwedge48/geometry/setZLength 32 mm
+/gate/Pwedge48/setMaterial PMMA
+/gate/Pwedge48/vis/setColor yellow
+/gate/Pwedge48/placement/setTranslation 25.2557 587.936 0 mm
+/gate/Pwedge48/placement/setRotationAxis 0 0 1
+/gate/Pwedge48/placement/setRotationAngle 90 deg
+/gate/world/daughters/name Pwedgeder
+/gate/world/daughters/insert box
+/gate/Pwedgeder/geometry/setXLength 80 mm
+/gate/Pwedgeder/geometry/setYLength 6.04473 mm 
+/gate/Pwedgeder/geometry/setZLength 32 mm
+/gate/Pwedgeder/setMaterial PMMA
+/gate/Pwedgeder/vis/setColor yellow
+/gate/Pwedgeder/placement/setTranslation 65.2557 588.022 0 mm
+/gate/world/daughters/name Pwedge49
+/gate/world/daughters/insert wedge
+/gate/Pwedge49/geometry/setNarrowerXLength 1e-05 mm
+/gate/Pwedge49/geometry/setXLength 0.00342656 mm
+/gate/Pwedge49/geometry/setYLength 0.48696 mm 
+/gate/Pwedge49/geometry/setZLength 32 mm
+/gate/Pwedge49/setMaterial PMMA
+/gate/Pwedge49/vis/setColor yellow
+/gate/Pwedge49/placement/setTranslation -0.24348 585.001 0 mm
+/gate/Pwedge49/placement/setRotationAxis 1 1 0
+/gate/Pwedge49/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge50
+/gate/world/daughters/insert wedge
+/gate/Pwedge50/geometry/setNarrowerXLength 0.00342656 mm
+/gate/Pwedge50/geometry/setXLength 0.00685367 mm
+/gate/Pwedge50/geometry/setYLength 0.48704 mm 
+/gate/Pwedge50/geometry/setZLength 32 mm
+/gate/Pwedge50/setMaterial PMMA
+/gate/Pwedge50/vis/setColor yellow
+/gate/Pwedge50/placement/setTranslation -0.73048 585.003 0 mm
+/gate/Pwedge50/placement/setRotationAxis 1 1 0
+/gate/Pwedge50/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge51
+/gate/world/daughters/insert wedge
+/gate/Pwedge51/geometry/setNarrowerXLength 0.00685367 mm
+/gate/Pwedge51/geometry/setXLength 0.0182759 mm
+/gate/Pwedge51/geometry/setYLength 0.487199 mm 
+/gate/Pwedge51/geometry/setZLength 32 mm
+/gate/Pwedge51/setMaterial PMMA
+/gate/Pwedge51/vis/setColor yellow
+/gate/Pwedge51/placement/setTranslation -1.2176 585.006 0 mm
+/gate/Pwedge51/placement/setRotationAxis 1 1 0
+/gate/Pwedge51/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge52
+/gate/world/daughters/insert wedge
+/gate/Pwedge52/geometry/setNarrowerXLength 0.0182759 mm
+/gate/Pwedge52/geometry/setXLength 0.0342657 mm
+/gate/Pwedge52/geometry/setYLength 0.487438 mm 
+/gate/Pwedge52/geometry/setZLength 32 mm
+/gate/Pwedge52/setMaterial PMMA
+/gate/Pwedge52/vis/setColor yellow
+/gate/Pwedge52/placement/setTranslation -1.70492 585.013 0 mm
+/gate/Pwedge52/placement/setRotationAxis 1 1 0
+/gate/Pwedge52/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge53
+/gate/world/daughters/insert wedge
+/gate/Pwedge53/geometry/setNarrowerXLength 0.0342657 mm
+/gate/Pwedge53/geometry/setXLength 0.0548221 mm
+/gate/Pwedge53/geometry/setYLength 0.487756 mm 
+/gate/Pwedge53/geometry/setZLength 32 mm
+/gate/Pwedge53/setMaterial PMMA
+/gate/Pwedge53/vis/setColor yellow
+/gate/Pwedge53/placement/setTranslation -2.19251 585.022 0 mm
+/gate/Pwedge53/placement/setRotationAxis 1 1 0
+/gate/Pwedge53/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge54
+/gate/world/daughters/insert wedge
+/gate/Pwedge54/geometry/setNarrowerXLength 0.0548221 mm
+/gate/Pwedge54/geometry/setXLength 0.0799433 mm
+/gate/Pwedge54/geometry/setYLength 0.488155 mm 
+/gate/Pwedge54/geometry/setZLength 32 mm
+/gate/Pwedge54/setMaterial PMMA
+/gate/Pwedge54/vis/setColor yellow
+/gate/Pwedge54/placement/setTranslation -2.68047 585.034 0 mm
+/gate/Pwedge54/placement/setRotationAxis 1 1 0
+/gate/Pwedge54/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge55
+/gate/world/daughters/insert wedge
+/gate/Pwedge55/geometry/setNarrowerXLength 0.0799433 mm
+/gate/Pwedge55/geometry/setXLength 0.109627 mm
+/gate/Pwedge55/geometry/setYLength 0.488634 mm 
+/gate/Pwedge55/geometry/setZLength 32 mm
+/gate/Pwedge55/setMaterial PMMA
+/gate/Pwedge55/vis/setColor yellow
+/gate/Pwedge55/placement/setTranslation -3.16886 585.047 0 mm
+/gate/Pwedge55/placement/setRotationAxis 1 1 0
+/gate/Pwedge55/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge56
+/gate/world/daughters/insert wedge
+/gate/Pwedge56/geometry/setNarrowerXLength 0.109627 mm
+/gate/Pwedge56/geometry/setXLength 0.143872 mm
+/gate/Pwedge56/geometry/setYLength 0.489194 mm 
+/gate/Pwedge56/geometry/setZLength 32 mm
+/gate/Pwedge56/setMaterial PMMA
+/gate/Pwedge56/vis/setColor yellow
+/gate/Pwedge56/placement/setTranslation -3.65778 585.063 0 mm
+/gate/Pwedge56/placement/setRotationAxis 1 1 0
+/gate/Pwedge56/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge57
+/gate/world/daughters/insert wedge
+/gate/Pwedge57/geometry/setNarrowerXLength 0.143872 mm
+/gate/Pwedge57/geometry/setXLength 0.182675 mm
+/gate/Pwedge57/geometry/setYLength 0.489834 mm 
+/gate/Pwedge57/geometry/setZLength 32 mm
+/gate/Pwedge57/setMaterial PMMA
+/gate/Pwedge57/vis/setColor yellow
+/gate/Pwedge57/placement/setTranslation -4.14729 585.082 0 mm
+/gate/Pwedge57/placement/setRotationAxis 1 1 0
+/gate/Pwedge57/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge58
+/gate/world/daughters/insert wedge
+/gate/Pwedge58/geometry/setNarrowerXLength 0.182675 mm
+/gate/Pwedge58/geometry/setXLength 0.226033 mm
+/gate/Pwedge58/geometry/setYLength 0.490556 mm 
+/gate/Pwedge58/geometry/setZLength 32 mm
+/gate/Pwedge58/setMaterial PMMA
+/gate/Pwedge58/vis/setColor yellow
+/gate/Pwedge58/placement/setTranslation -4.63749 585.102 0 mm
+/gate/Pwedge58/placement/setRotationAxis 1 1 0
+/gate/Pwedge58/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge59
+/gate/world/daughters/insert wedge
+/gate/Pwedge59/geometry/setNarrowerXLength 0.226033 mm
+/gate/Pwedge59/geometry/setXLength 0.273943 mm
+/gate/Pwedge59/geometry/setYLength 0.491359 mm 
+/gate/Pwedge59/geometry/setZLength 32 mm
+/gate/Pwedge59/setMaterial PMMA
+/gate/Pwedge59/vis/setColor yellow
+/gate/Pwedge59/placement/setTranslation -5.12844 585.125 0 mm
+/gate/Pwedge59/placement/setRotationAxis 1 1 0
+/gate/Pwedge59/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge60
+/gate/world/daughters/insert wedge
+/gate/Pwedge60/geometry/setNarrowerXLength 0.273943 mm
+/gate/Pwedge60/geometry/setXLength 0.326402 mm
+/gate/Pwedge60/geometry/setYLength 0.492245 mm 
+/gate/Pwedge60/geometry/setZLength 32 mm
+/gate/Pwedge60/setMaterial PMMA
+/gate/Pwedge60/vis/setColor yellow
+/gate/Pwedge60/placement/setTranslation -5.62025 585.15 0 mm
+/gate/Pwedge60/placement/setRotationAxis 1 1 0
+/gate/Pwedge60/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge61
+/gate/world/daughters/insert wedge
+/gate/Pwedge61/geometry/setNarrowerXLength 0.326402 mm
+/gate/Pwedge61/geometry/setXLength 0.383404 mm
+/gate/Pwedge61/geometry/setYLength 0.493213 mm 
+/gate/Pwedge61/geometry/setZLength 32 mm
+/gate/Pwedge61/setMaterial PMMA
+/gate/Pwedge61/vis/setColor yellow
+/gate/Pwedge61/placement/setTranslation -6.11298 585.177 0 mm
+/gate/Pwedge61/placement/setRotationAxis 1 1 0
+/gate/Pwedge61/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge62
+/gate/world/daughters/insert wedge
+/gate/Pwedge62/geometry/setNarrowerXLength 0.383404 mm
+/gate/Pwedge62/geometry/setXLength 0.444946 mm
+/gate/Pwedge62/geometry/setYLength 0.494265 mm 
+/gate/Pwedge62/geometry/setZLength 32 mm
+/gate/Pwedge62/setMaterial PMMA
+/gate/Pwedge62/vis/setColor yellow
+/gate/Pwedge62/placement/setTranslation -6.60672 585.207 0 mm
+/gate/Pwedge62/placement/setRotationAxis 1 1 0
+/gate/Pwedge62/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge63
+/gate/world/daughters/insert wedge
+/gate/Pwedge63/geometry/setNarrowerXLength 0.444946 mm
+/gate/Pwedge63/geometry/setXLength 0.511024 mm
+/gate/Pwedge63/geometry/setYLength 0.495401 mm 
+/gate/Pwedge63/geometry/setZLength 32 mm
+/gate/Pwedge63/setMaterial PMMA
+/gate/Pwedge63/vis/setColor yellow
+/gate/Pwedge63/placement/setTranslation -7.10155 585.239 0 mm
+/gate/Pwedge63/placement/setRotationAxis 1 1 0
+/gate/Pwedge63/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge64
+/gate/world/daughters/insert wedge
+/gate/Pwedge64/geometry/setNarrowerXLength 0.511024 mm
+/gate/Pwedge64/geometry/setXLength 0.581631 mm
+/gate/Pwedge64/geometry/setYLength 0.496621 mm 
+/gate/Pwedge64/geometry/setZLength 32 mm
+/gate/Pwedge64/setMaterial PMMA
+/gate/Pwedge64/vis/setColor yellow
+/gate/Pwedge64/placement/setTranslation -7.59756 585.273 0 mm
+/gate/Pwedge64/placement/setRotationAxis 1 1 0
+/gate/Pwedge64/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge65
+/gate/world/daughters/insert wedge
+/gate/Pwedge65/geometry/setNarrowerXLength 0.581631 mm
+/gate/Pwedge65/geometry/setXLength 0.656764 mm
+/gate/Pwedge65/geometry/setYLength 0.497927 mm 
+/gate/Pwedge65/geometry/setZLength 32 mm
+/gate/Pwedge65/setMaterial PMMA
+/gate/Pwedge65/vis/setColor yellow
+/gate/Pwedge65/placement/setTranslation -8.09483 585.31 0 mm
+/gate/Pwedge65/placement/setRotationAxis 1 1 0
+/gate/Pwedge65/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge66
+/gate/world/daughters/insert wedge
+/gate/Pwedge66/geometry/setNarrowerXLength 0.656764 mm
+/gate/Pwedge66/geometry/setXLength 0.736417 mm
+/gate/Pwedge66/geometry/setYLength 0.499318 mm 
+/gate/Pwedge66/geometry/setZLength 32 mm
+/gate/Pwedge66/setMaterial PMMA
+/gate/Pwedge66/vis/setColor yellow
+/gate/Pwedge66/placement/setTranslation -8.59346 585.348 0 mm
+/gate/Pwedge66/placement/setRotationAxis 1 1 0
+/gate/Pwedge66/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge67
+/gate/world/daughters/insert wedge
+/gate/Pwedge67/geometry/setNarrowerXLength 0.736417 mm
+/gate/Pwedge67/geometry/setXLength 0.820583 mm
+/gate/Pwedge67/geometry/setYLength 0.500797 mm 
+/gate/Pwedge67/geometry/setZLength 32 mm
+/gate/Pwedge67/setMaterial PMMA
+/gate/Pwedge67/vis/setColor yellow
+/gate/Pwedge67/placement/setTranslation -9.09351 585.389 0 mm
+/gate/Pwedge67/placement/setRotationAxis 1 1 0
+/gate/Pwedge67/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge68
+/gate/world/daughters/insert wedge
+/gate/Pwedge68/geometry/setNarrowerXLength 0.820583 mm
+/gate/Pwedge68/geometry/setXLength 0.909259 mm
+/gate/Pwedge68/geometry/setYLength 0.502364 mm 
+/gate/Pwedge68/geometry/setZLength 32 mm
+/gate/Pwedge68/setMaterial PMMA
+/gate/Pwedge68/vis/setColor yellow
+/gate/Pwedge68/placement/setTranslation -9.59509 585.432 0 mm
+/gate/Pwedge68/placement/setRotationAxis 1 1 0
+/gate/Pwedge68/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge69
+/gate/world/daughters/insert wedge
+/gate/Pwedge69/geometry/setNarrowerXLength 0.909259 mm
+/gate/Pwedge69/geometry/setXLength 1.00244 mm
+/gate/Pwedge69/geometry/setYLength 0.50402 mm 
+/gate/Pwedge69/geometry/setZLength 32 mm
+/gate/Pwedge69/setMaterial PMMA
+/gate/Pwedge69/vis/setColor yellow
+/gate/Pwedge69/placement/setTranslation -10.0983 585.478 0 mm
+/gate/Pwedge69/placement/setRotationAxis 1 1 0
+/gate/Pwedge69/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge70
+/gate/world/daughters/insert wedge
+/gate/Pwedge70/geometry/setNarrowerXLength 1.00244 mm
+/gate/Pwedge70/geometry/setXLength 1.10012 mm
+/gate/Pwedge70/geometry/setYLength 0.505766 mm 
+/gate/Pwedge70/geometry/setZLength 32 mm
+/gate/Pwedge70/setMaterial PMMA
+/gate/Pwedge70/vis/setColor yellow
+/gate/Pwedge70/placement/setTranslation -10.6032 585.526 0 mm
+/gate/Pwedge70/placement/setRotationAxis 1 1 0
+/gate/Pwedge70/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge71
+/gate/world/daughters/insert wedge
+/gate/Pwedge71/geometry/setNarrowerXLength 1.10012 mm
+/gate/Pwedge71/geometry/setXLength 1.2023 mm
+/gate/Pwedge71/geometry/setYLength 0.507602 mm 
+/gate/Pwedge71/geometry/setZLength 32 mm
+/gate/Pwedge71/setMaterial PMMA
+/gate/Pwedge71/vis/setColor yellow
+/gate/Pwedge71/placement/setTranslation -11.1099 585.576 0 mm
+/gate/Pwedge71/placement/setRotationAxis 1 1 0
+/gate/Pwedge71/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge72
+/gate/world/daughters/insert wedge
+/gate/Pwedge72/geometry/setNarrowerXLength 1.2023 mm
+/gate/Pwedge72/geometry/setXLength 1.30897 mm
+/gate/Pwedge72/geometry/setYLength 0.509532 mm 
+/gate/Pwedge72/geometry/setZLength 32 mm
+/gate/Pwedge72/setMaterial PMMA
+/gate/Pwedge72/vis/setColor yellow
+/gate/Pwedge72/placement/setTranslation -11.6184 585.628 0 mm
+/gate/Pwedge72/placement/setRotationAxis 1 1 0
+/gate/Pwedge72/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge73
+/gate/world/daughters/insert wedge
+/gate/Pwedge73/geometry/setNarrowerXLength 1.30897 mm
+/gate/Pwedge73/geometry/setXLength 1.42015 mm
+/gate/Pwedge73/geometry/setYLength 0.511554 mm 
+/gate/Pwedge73/geometry/setZLength 32 mm
+/gate/Pwedge73/setMaterial PMMA
+/gate/Pwedge73/vis/setColor yellow
+/gate/Pwedge73/placement/setTranslation -12.129 585.682 0 mm
+/gate/Pwedge73/placement/setRotationAxis 1 1 0
+/gate/Pwedge73/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge74
+/gate/world/daughters/insert wedge
+/gate/Pwedge74/geometry/setNarrowerXLength 1.42015 mm
+/gate/Pwedge74/geometry/setXLength 1.53584 mm
+/gate/Pwedge74/geometry/setYLength 0.513672 mm 
+/gate/Pwedge74/geometry/setZLength 32 mm
+/gate/Pwedge74/setMaterial PMMA
+/gate/Pwedge74/vis/setColor yellow
+/gate/Pwedge74/placement/setTranslation -12.6416 585.739 0 mm
+/gate/Pwedge74/placement/setRotationAxis 1 1 0
+/gate/Pwedge74/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge75
+/gate/world/daughters/insert wedge
+/gate/Pwedge75/geometry/setNarrowerXLength 1.53584 mm
+/gate/Pwedge75/geometry/setXLength 1.65606 mm
+/gate/Pwedge75/geometry/setYLength 0.515886 mm 
+/gate/Pwedge75/geometry/setZLength 32 mm
+/gate/Pwedge75/setMaterial PMMA
+/gate/Pwedge75/vis/setColor yellow
+/gate/Pwedge75/placement/setTranslation -13.1564 585.798 0 mm
+/gate/Pwedge75/placement/setRotationAxis 1 1 0
+/gate/Pwedge75/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge76
+/gate/world/daughters/insert wedge
+/gate/Pwedge76/geometry/setNarrowerXLength 1.65606 mm
+/gate/Pwedge76/geometry/setXLength 1.78082 mm
+/gate/Pwedge76/geometry/setYLength 0.518198 mm 
+/gate/Pwedge76/geometry/setZLength 32 mm
+/gate/Pwedge76/setMaterial PMMA
+/gate/Pwedge76/vis/setColor yellow
+/gate/Pwedge76/placement/setTranslation -13.6734 585.859 0 mm
+/gate/Pwedge76/placement/setRotationAxis 1 1 0
+/gate/Pwedge76/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge77
+/gate/world/daughters/insert wedge
+/gate/Pwedge77/geometry/setNarrowerXLength 1.78082 mm
+/gate/Pwedge77/geometry/setXLength 1.91018 mm
+/gate/Pwedge77/geometry/setYLength 0.520609 mm 
+/gate/Pwedge77/geometry/setZLength 32 mm
+/gate/Pwedge77/setMaterial PMMA
+/gate/Pwedge77/vis/setColor yellow
+/gate/Pwedge77/placement/setTranslation -14.1928 585.923 0 mm
+/gate/Pwedge77/placement/setRotationAxis 1 1 0
+/gate/Pwedge77/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge78
+/gate/world/daughters/insert wedge
+/gate/Pwedge78/geometry/setNarrowerXLength 1.91018 mm
+/gate/Pwedge78/geometry/setXLength 2.04419 mm
+/gate/Pwedge78/geometry/setYLength 0.523123 mm 
+/gate/Pwedge78/geometry/setZLength 32 mm
+/gate/Pwedge78/setMaterial PMMA
+/gate/Pwedge78/vis/setColor yellow
+/gate/Pwedge78/placement/setTranslation -14.7147 585.989 0 mm
+/gate/Pwedge78/placement/setRotationAxis 1 1 0
+/gate/Pwedge78/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge79
+/gate/world/daughters/insert wedge
+/gate/Pwedge79/geometry/setNarrowerXLength 2.04419 mm
+/gate/Pwedge79/geometry/setXLength 2.18293 mm
+/gate/Pwedge79/geometry/setYLength 0.525739 mm 
+/gate/Pwedge79/geometry/setZLength 32 mm
+/gate/Pwedge79/setMaterial PMMA
+/gate/Pwedge79/vis/setColor yellow
+/gate/Pwedge79/placement/setTranslation -15.2391 586.057 0 mm
+/gate/Pwedge79/placement/setRotationAxis 1 1 0
+/gate/Pwedge79/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge80
+/gate/world/daughters/insert wedge
+/gate/Pwedge80/geometry/setNarrowerXLength 2.18293 mm
+/gate/Pwedge80/geometry/setXLength 2.3265 mm
+/gate/Pwedge80/geometry/setYLength 0.528462 mm 
+/gate/Pwedge80/geometry/setZLength 32 mm
+/gate/Pwedge80/setMaterial PMMA
+/gate/Pwedge80/vis/setColor yellow
+/gate/Pwedge80/placement/setTranslation -15.7662 586.127 0 mm
+/gate/Pwedge80/placement/setRotationAxis 1 1 0
+/gate/Pwedge80/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge81
+/gate/world/daughters/insert wedge
+/gate/Pwedge81/geometry/setNarrowerXLength 2.3265 mm
+/gate/Pwedge81/geometry/setXLength 2.47506 mm
+/gate/Pwedge81/geometry/setYLength 0.531293 mm 
+/gate/Pwedge81/geometry/setZLength 32 mm
+/gate/Pwedge81/setMaterial PMMA
+/gate/Pwedge81/vis/setColor yellow
+/gate/Pwedge81/placement/setTranslation -16.2961 586.2 0 mm
+/gate/Pwedge81/placement/setRotationAxis 1 1 0
+/gate/Pwedge81/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge82
+/gate/world/daughters/insert wedge
+/gate/Pwedge82/geometry/setNarrowerXLength 2.47506 mm
+/gate/Pwedge82/geometry/setXLength 2.6288 mm
+/gate/Pwedge82/geometry/setYLength 0.534235 mm 
+/gate/Pwedge82/geometry/setZLength 32 mm
+/gate/Pwedge82/setMaterial PMMA
+/gate/Pwedge82/vis/setColor yellow
+/gate/Pwedge82/placement/setTranslation -16.8288 586.276 0 mm
+/gate/Pwedge82/placement/setRotationAxis 1 1 0
+/gate/Pwedge82/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge83
+/gate/world/daughters/insert wedge
+/gate/Pwedge83/geometry/setNarrowerXLength 2.6288 mm
+/gate/Pwedge83/geometry/setXLength 2.78797 mm
+/gate/Pwedge83/geometry/setYLength 0.537291 mm 
+/gate/Pwedge83/geometry/setZLength 32 mm
+/gate/Pwedge83/setMaterial PMMA
+/gate/Pwedge83/vis/setColor yellow
+/gate/Pwedge83/placement/setTranslation -17.3646 586.354 0 mm
+/gate/Pwedge83/placement/setRotationAxis 1 1 0
+/gate/Pwedge83/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge84
+/gate/world/daughters/insert wedge
+/gate/Pwedge84/geometry/setNarrowerXLength 2.78797 mm
+/gate/Pwedge84/geometry/setXLength 2.95289 mm
+/gate/Pwedge84/geometry/setYLength 0.540466 mm 
+/gate/Pwedge84/geometry/setZLength 32 mm
+/gate/Pwedge84/setMaterial PMMA
+/gate/Pwedge84/vis/setColor yellow
+/gate/Pwedge84/placement/setTranslation -17.9035 586.435 0 mm
+/gate/Pwedge84/placement/setRotationAxis 1 1 0
+/gate/Pwedge84/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge85
+/gate/world/daughters/insert wedge
+/gate/Pwedge85/geometry/setNarrowerXLength 2.95289 mm
+/gate/Pwedge85/geometry/setXLength 3.124 mm
+/gate/Pwedge85/geometry/setYLength 0.543763 mm 
+/gate/Pwedge85/geometry/setZLength 32 mm
+/gate/Pwedge85/setMaterial PMMA
+/gate/Pwedge85/vis/setColor yellow
+/gate/Pwedge85/placement/setTranslation -18.4456 586.519 0 mm
+/gate/Pwedge85/placement/setRotationAxis 1 1 0
+/gate/Pwedge85/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge86
+/gate/world/daughters/insert wedge
+/gate/Pwedge86/geometry/setNarrowerXLength 3.124 mm
+/gate/Pwedge86/geometry/setXLength 3.30179 mm
+/gate/Pwedge86/geometry/setYLength 0.547186 mm 
+/gate/Pwedge86/geometry/setZLength 32 mm
+/gate/Pwedge86/setMaterial PMMA
+/gate/Pwedge86/vis/setColor yellow
+/gate/Pwedge86/placement/setTranslation -18.9911 586.606 0 mm
+/gate/Pwedge86/placement/setRotationAxis 1 1 0
+/gate/Pwedge86/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge87
+/gate/world/daughters/insert wedge
+/gate/Pwedge87/geometry/setNarrowerXLength 3.30179 mm
+/gate/Pwedge87/geometry/setXLength 3.48695 mm
+/gate/Pwedge87/geometry/setYLength 0.550742 mm 
+/gate/Pwedge87/geometry/setZLength 32 mm
+/gate/Pwedge87/setMaterial PMMA
+/gate/Pwedge87/vis/setColor yellow
+/gate/Pwedge87/placement/setTranslation -19.54 586.697 0 mm
+/gate/Pwedge87/placement/setRotationAxis 1 1 0
+/gate/Pwedge87/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge88
+/gate/world/daughters/insert wedge
+/gate/Pwedge88/geometry/setNarrowerXLength 3.48695 mm
+/gate/Pwedge88/geometry/setXLength 3.68027 mm
+/gate/Pwedge88/geometry/setYLength 0.554436 mm 
+/gate/Pwedge88/geometry/setZLength 32 mm
+/gate/Pwedge88/setMaterial PMMA
+/gate/Pwedge88/vis/setColor yellow
+/gate/Pwedge88/placement/setTranslation -20.0926 586.792 0 mm
+/gate/Pwedge88/placement/setRotationAxis 1 1 0
+/gate/Pwedge88/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge89
+/gate/world/daughters/insert wedge
+/gate/Pwedge89/geometry/setNarrowerXLength 3.68027 mm
+/gate/Pwedge89/geometry/setXLength 3.88275 mm
+/gate/Pwedge89/geometry/setYLength 0.558276 mm 
+/gate/Pwedge89/geometry/setZLength 32 mm
+/gate/Pwedge89/setMaterial PMMA
+/gate/Pwedge89/vis/setColor yellow
+/gate/Pwedge89/placement/setTranslation -20.649 586.891 0 mm
+/gate/Pwedge89/placement/setRotationAxis 1 1 0
+/gate/Pwedge89/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge90
+/gate/world/daughters/insert wedge
+/gate/Pwedge90/geometry/setNarrowerXLength 3.88275 mm
+/gate/Pwedge90/geometry/setXLength 4.09562 mm
+/gate/Pwedge90/geometry/setYLength 0.56227 mm 
+/gate/Pwedge90/geometry/setZLength 32 mm
+/gate/Pwedge90/setMaterial PMMA
+/gate/Pwedge90/vis/setColor yellow
+/gate/Pwedge90/placement/setTranslation -21.2093 586.995 0 mm
+/gate/Pwedge90/placement/setRotationAxis 1 1 0
+/gate/Pwedge90/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge91
+/gate/world/daughters/insert wedge
+/gate/Pwedge91/geometry/setNarrowerXLength 4.09562 mm
+/gate/Pwedge91/geometry/setXLength 4.32035 mm
+/gate/Pwedge91/geometry/setYLength 0.566427 mm 
+/gate/Pwedge91/geometry/setZLength 32 mm
+/gate/Pwedge91/setMaterial PMMA
+/gate/Pwedge91/vis/setColor yellow
+/gate/Pwedge91/placement/setTranslation -21.7736 587.104 0 mm
+/gate/Pwedge91/placement/setRotationAxis 1 1 0
+/gate/Pwedge91/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge92
+/gate/world/daughters/insert wedge
+/gate/Pwedge92/geometry/setNarrowerXLength 4.32035 mm
+/gate/Pwedge92/geometry/setXLength 4.55872 mm
+/gate/Pwedge92/geometry/setYLength 0.57076 mm 
+/gate/Pwedge92/geometry/setZLength 32 mm
+/gate/Pwedge92/setMaterial PMMA
+/gate/Pwedge92/vis/setColor yellow
+/gate/Pwedge92/placement/setTranslation -22.3422 587.22 0 mm
+/gate/Pwedge92/placement/setRotationAxis 1 1 0
+/gate/Pwedge92/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge93
+/gate/world/daughters/insert wedge
+/gate/Pwedge93/geometry/setNarrowerXLength 4.55872 mm
+/gate/Pwedge93/geometry/setXLength 4.81287 mm
+/gate/Pwedge93/geometry/setYLength 0.575281 mm 
+/gate/Pwedge93/geometry/setZLength 32 mm
+/gate/Pwedge93/setMaterial PMMA
+/gate/Pwedge93/vis/setColor yellow
+/gate/Pwedge93/placement/setTranslation -22.9152 587.343 0 mm
+/gate/Pwedge93/placement/setRotationAxis 1 1 0
+/gate/Pwedge93/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge94
+/gate/world/daughters/insert wedge
+/gate/Pwedge94/geometry/setNarrowerXLength 4.81287 mm
+/gate/Pwedge94/geometry/setXLength 5.0853 mm
+/gate/Pwedge94/geometry/setYLength 0.580005 mm 
+/gate/Pwedge94/geometry/setZLength 32 mm
+/gate/Pwedge94/setMaterial PMMA
+/gate/Pwedge94/vis/setColor yellow
+/gate/Pwedge94/placement/setTranslation -23.4929 587.475 0 mm
+/gate/Pwedge94/placement/setRotationAxis 1 1 0
+/gate/Pwedge94/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge95
+/gate/world/daughters/insert wedge
+/gate/Pwedge95/geometry/setNarrowerXLength 5.0853 mm
+/gate/Pwedge95/geometry/setXLength 5.37901 mm
+/gate/Pwedge95/geometry/setYLength 0.584949 mm 
+/gate/Pwedge95/geometry/setZLength 32 mm
+/gate/Pwedge95/setMaterial PMMA
+/gate/Pwedge95/vis/setColor yellow
+/gate/Pwedge95/placement/setTranslation -24.0753 587.616 0 mm
+/gate/Pwedge95/placement/setRotationAxis 1 1 0
+/gate/Pwedge95/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge96
+/gate/world/daughters/insert wedge
+/gate/Pwedge96/geometry/setNarrowerXLength 5.37901 mm
+/gate/Pwedge96/geometry/setXLength 5.69747 mm
+/gate/Pwedge96/geometry/setYLength 0.590133 mm 
+/gate/Pwedge96/geometry/setZLength 32 mm
+/gate/Pwedge96/setMaterial PMMA
+/gate/Pwedge96/vis/setColor yellow
+/gate/Pwedge96/placement/setTranslation -24.6629 587.769 0 mm
+/gate/Pwedge96/placement/setRotationAxis 1 1 0
+/gate/Pwedge96/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedge97
+/gate/world/daughters/insert wedge
+/gate/Pwedge97/geometry/setNarrowerXLength 5.69747 mm
+/gate/Pwedge97/geometry/setXLength 6.04473 mm
+/gate/Pwedge97/geometry/setYLength 0.595578 mm 
+/gate/Pwedge97/geometry/setZLength 32 mm
+/gate/Pwedge97/setMaterial PMMA
+/gate/Pwedge97/vis/setColor yellow
+/gate/Pwedge97/placement/setTranslation -25.2557 587.936 0 mm
+/gate/Pwedge97/placement/setRotationAxis 1 1 0
+/gate/Pwedge97/placement/setRotationAngle 180 deg
+/gate/world/daughters/name Pwedgeizq
+/gate/world/daughters/insert box
+/gate/Pwedgeizq/geometry/setXLength 80 mm
+/gate/Pwedgeizq/geometry/setYLength 6.04473 mm 
+/gate/Pwedgeizq/geometry/setZLength 32 mm
+/gate/Pwedgeizq/setMaterial PMMA
+/gate/Pwedgeizq/vis/setColor yellow
+/gate/Pwedgeizq/placement/setTranslation -65.2557 588.022 0 mm
