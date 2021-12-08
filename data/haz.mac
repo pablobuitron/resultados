@@ -1,0 +1,58 @@
+#=============================================================================
+# BEAM : ANODO DE TUNGSTENO 20 DEG, 120 KVP, 0.32 MM DE AL
+#=============================================================================
+
+#=============================================================================
+# Tipo de particula y espectro de energia (en MeV) normalizado
+#=============================================================================
+
+/gate/source/addSource mybeam gps
+
+/gate/source/mybeam/gps/particle gamma
+/gate/source/mybeam/gps/ene/type   User
+/gate/source/mybeam/gps/hist/type  energy
+/gate/source/mybeam/setActivity 10984525544125.8e-05 becquerel 		# 150X0.5 mAs
+
+/gate/source/mybeam/gps/hist/point	0.0025 5.61975e-10
+/gate/source/mybeam/gps/hist/point	0.0075 0.0354473
+/gate/source/mybeam/gps/hist/point	0.0125 0.0220215
+/gate/source/mybeam/gps/hist/point	0.0175 0.0559464
+/gate/source/mybeam/gps/hist/point	0.0225 0.0891126
+/gate/source/mybeam/gps/hist/point	0.0275 0.10245
+/gate/source/mybeam/gps/hist/point	0.0325 0.0993848
+/gate/source/mybeam/gps/hist/point	0.0375 0.088907
+/gate/source/mybeam/gps/hist/point	0.0425 0.0769752
+/gate/source/mybeam/gps/hist/point	0.0475 0.0657452
+/gate/source/mybeam/gps/hist/point	0.0525 0.0559785
+/gate/source/mybeam/gps/hist/point	0.0575 0.0890703
+/gate/source/mybeam/gps/hist/point	0.0625 0.0406959
+/gate/source/mybeam/gps/hist/point	0.0675 0.0511967
+/gate/source/mybeam/gps/hist/point	0.0725 0.0257646
+/gate/source/mybeam/gps/hist/point	0.0775 0.0225741
+/gate/source/mybeam/gps/hist/point	0.0825 0.0194936
+/gate/source/mybeam/gps/hist/point	0.0875 0.0165353
+/gate/source/mybeam/gps/hist/point	0.0925 0.013678
+/gate/source/mybeam/gps/hist/point	0.0975 0.010924
+/gate/source/mybeam/gps/hist/point	0.1025 0.008252
+/gate/source/mybeam/gps/hist/point	0.1075 0.00570166
+/gate/source/mybeam/gps/hist/point	0.1125 0.00324564
+/gate/source/mybeam/gps/hist/point	0.1175 0.000899541
+
+
+#===================================================================
+# Posicion y forma  (theta=2.1316900548, phi=55)
+#===================================================================
+/gate/source/mybeam/gps/position       0 525 0 mm
+
+/gate/source/mybeam/gps/type Point
+#/gate/source/mybeam/gps/direction 0 1 0
+/gate/source/mybeam/gps/ang/type iso
+
+/gate/source/mybeam/gps/ang/mintheta -88.9341549726 deg
+
+/gate/source/mybeam/gps/ang/maxtheta -91.0658450274 deg
+
+/gate/source/mybeam/gps/ang/minphi   -62.5 deg
+
+/gate/source/mybeam/gps/ang/maxphi   -117.5 deg
+
